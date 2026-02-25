@@ -28,6 +28,11 @@ jobs:
           mkdir -p public
           node public/index.js
 
+      - name: Debug git
+        run: |
+          git status
+          git diff
+    
       - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"

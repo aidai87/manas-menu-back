@@ -2,270 +2,313 @@
   "categories": [
     {
       "id": "hot_drinks",
-      "title": "Горячие напитки",
+      "title": "SICAK İÇECEK",
       "items": [
         {
           "id": "cay_demleme",
           "name": "ÇAY DEMLEME",
-          "price": 20
+          "price": 20,
+          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/cay_demleme.jpg"
         },
         {
           "id": "cay_sallama",
           "name": "ÇAY SALLAMA",
-          "price": 20
+          "price": 20,
+          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/cay_sallama.jpg"
         },
         {
           "id": "kahve_sade",
           "name": "KAHVE SADE",
-          "price": 30
+          "price": 30,
+          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/kahve_sade.jpg"
         },
         {
           "id": "kahve_sutlu",
           "name": "KAHVE SÜTLÜ",
-          "price": 30
+          "price": 30,
+          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/kahve_sutlu.jpg"
         }
       ]
     },
     {
       "id": "pizza_and_pide",
-      "title": "Пицца и пиде",
+      "title": "PİZZA VE PİDELER",
       "items": [
         {
           "id": "lahmacun",
           "name": "LAHMACUN",
-          "price": 100
+          "price": 100,
+          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/lahmacun.jpg"
         },
         {
           "id": "pide_karisik",
           "name": "PİDE KARIŞIK",
-          "price": 170
+          "price": 170,
+          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/pide_karisik.jpg"
         },
         {
           "id": "pide_kiymali",
           "name": "PİDE KIYMALI",
-          "price": 150
+          "price": 150,
+          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/pide_kiymali.jpg"
         },
         {
           "id": "pide_peynirli",
           "name": "PİDE PEYNİRLİ",
-          "price": 160
+          "price": 160,
+          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/pide_peynirli.jpg"
         },
         {
           "id": "pide_yumurtali",
           "name": "PİDE YUMURTALI",
-          "price": 140
+          "price": 140,
+          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/pide_yumurtali.jpg"
         },
         {
           "id": "pizza_karisik",
           "name": "PİZZA KARIŞIK",
-          "price": 260
+          "price": 260,
+          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/pizza_karisik.jpg"
         },
         {
           "id": "pizza_peynirli",
           "name": "PİZZA PEYNİRLİ",
-          "price": 220
+          "price": 220,
+          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/pizza_peynirli.jpg"
         },
         {
           "id": "pizza_sosisli",
           "name": "PİZZA SOSİSLİ",
-          "price": 250
+          "price": 250,
+          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/pizza_sosisli.jpg"
         },
         {
           "id": "tost_kasarli",
           "name": "TOST KAŞARLI",
-          "price": 90
+          "price": 90,
+          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/tost_kasarli.jpg"
         },
         {
           "id": "tost_karisik",
           "name": "TOST KARIŞIK",
-          "price": 130
+          "price": 130,
+          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/tost_karisik.jpg"
         }
       ]
     },
     {
       "id": "flour_products",
-      "title": "Мучные изделия",
+      "title": "UNLU MAMÜLLER",
       "items": [
         {
           "id": "sandvic_satis",
           "name": "SANDVİÇ SATIŞ",
-          "price": 75
+          "price": 75,
+          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/sandvic_satis.jpg"
         },
         {
           "id": "ekmek_satis",
           "name": "EKMEK SATIŞ",
-          "price": 30
+          "price": 30,
+          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/ekmek_satis.jpg"
         },
         {
           "id": "su_boregi_peynirli",
           "name": "SU BÖREĞİ PEYNİRLİ",
-          "price": 50
+          "price": 50,
+          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/su_boregi_peynirli.jpg"
         },
         {
           "id": "pogaca_lorlu",
           "name": "POĞAÇA LORLU",
-          "price": 40
+          "price": 40,
+          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/pogaca_lorlu.jpg"
         },
         {
           "id": "samsi_kiymali",
           "name": "SAMSI KIYMALI",
-          "price": 45
+          "price": 45,
+          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/samsi_kiymali.jpg"
         },
         {
           "id": "samsi_lorlu",
           "name": "SAMSI LORLU",
-          "price": 45
+          "price": 45,
+          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/samsi_lorlu.jpg"
         },
         {
           "id": "simit",
           "name": "SİMİT",
-          "price": 40
+          "price": 40,
+          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/simit.jpg"
         },
         {
           "id": "top_kek",
           "name": "TOP KEK",
-          "price": 40
+          "price": 40,
+          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/top_kek.jpg"
         }
       ]
     },
     {
       "id": "breakfast",
-      "title": "Завтраки",
+      "title": "KAHVALTILIKLAR",
       "items": [
         {
           "id": "bal_50_gr",
           "name": "BAL 50 GR",
-          "price": 45
+          "price": 45,
+          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/bal_50_gr.jpg"
         },
         {
           "id": "kahvalti_tabagi",
           "name": "KAHVALTI TABAĞI",
-          "price": 150
+          "price": 150,
+          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/kahvalti_tabagi.jpg"
         },
         {
           "id": "tereyag_50_gr",
           "name": "TEREYAĞ 50 GR",
-          "price": 40
+          "price": 40,
+          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/tereyag_50_gr.jpg"
         },
         {
           "id": "zeytin_50_gr",
           "name": "ZEYTİN 50 GR",
-          "price": 50
+          "price": 50,
+          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/zeytin_50_gr.jpg"
         }
       ]
     },
     {
       "id": "salads",
-      "title": "Салаты",
+      "title": "SALATALAR",
       "items": [
         {
           "id": "havuc_salatasi",
           "name": "HAVUÇ SALATASI",
-          "price": 40
+          "price": 40,
+          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/havuc_salatasi.jpg"
         },
         {
           "id": "rus_salatasi",
           "name": "RUS SALATASI",
-          "price": 65
+          "price": 65,
+          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/rus_salatasi.jpg"
         }
       ]
     },
     {
       "id": "desserts",
-      "title": "Десерты",
+      "title": "TATLILAR",
       "items": [
         {
           "id": "baklava",
           "name": "BAKLAVA",
-          "price": 50
+          "price": 50,
+          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/baklava.jpg"
         },
         {
           "id": "islak_kek",
           "name": "ISLAK KEK",
-          "price": 60
+          "price": 60,
+          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/islak_kek.jpg"
         },
         {
           "id": "kakaolu_puding_cevizli",
           "name": "KAKAOLU PUDİNG CEVİZLİ",
-          "price": 50
+          "price": 50,
+          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/kakaolu_puding_cevizli.jpg"
         },
         {
           "id": "kalbur_tatlisi",
           "name": "KALBUR TATLISI",
-          "price": 60
+          "price": 60,
+          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/kalbur_tatlisi.jpg"
         },
         {
           "id": "sutlac_cevizli",
           "name": "SÜTLAÇ CEVİZLİ",
-          "price": 50
+          "price": 50,
+          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/sutlac_cevizli.jpg"
         }
       ]
     },
     {
       "id": "meatballs_and_doner",
-      "title": "Котлеты и донеры",
+      "title": "KÖFTE VE DÖNERLER",
       "items": [
         {
           "id": "izgara_kofte_servis",
           "name": "IZGARA KÖFTE SERVİS",
-          "price": 250
+          "price": 250,
+          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/izgara_kofte_servis.jpg"
         },
         {
           "id": "kofte_ekmek_arasi",
           "name": "KÖFTE EKMEK ARASI",
-          "price": 125
+          "price": 125,
+          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/kofte_ekmek_arasi.jpg"
         }
       ]
     },
     {
       "id": "yogurts",
-      "title": "Йогурты",
+      "title": "YOĞURTLAR",
       "items": [
         {
           "id": "yogurt_600_gr",
           "name": "YOĞURT 600 GR",
-          "price": 80
+          "price": 80,
+          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/yogurt_600_gr.jpg"
         }
       ]
     },
     {
       "id": "cold_drinks",
-      "title": "Холодные напитки",
+      "title": "SOĞUK İÇECEKLER",
       "items": [
         {
           "id": "kola_0_5_lt",
           "name": "KOLA 0,5 LT",
-          "price": 57
+          "price": 57,
+          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/kola_0_5_lt.jpg"
         },
         {
           "id": "kola_1_lt",
           "name": "KOLA 1 LT",
-          "price": 90
+          "price": 90,
+          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/kola_1_lt.jpg"
         },
         {
           "id": "fanta_0_5_lt",
           "name": "FANTA 0,5 LT",
-          "price": 57
+          "price": 57,
+          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/fanta_0_5_lt.jpg"
         },
         {
           "id": "fanta_1_lt",
           "name": "FANTA 1 LT",
-          "price": 90
+          "price": 90,
+          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/fanta_1_lt.jpg"
         },
         {
           "id": "legenda_su_0_5_lt",
           "name": "LEGENDA SU 0,5 LT",
-          "price": 27
+          "price": 27,
+          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/legenda_su_0_5_lt.jpg"
         },
         {
           "id": "maden_suyu_beypazari",
           "name": "MADEN SUYU BEYPAZARI",
-          "price": 48
+          "price": 48,
+          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/maden_suyu_beypazari.jpg"
         },
         {
           "id": "fuse_tea_0_5_lt",
           "name": "FUSE TEA 0,5 LT",
-          "price": 57
+          "price": 57,
+          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/fuse_tea_0_5_lt.jpg"
         }
       ]
     }
