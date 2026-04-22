@@ -25,7 +25,7 @@ function resolvePhotos(id, originalUrl) {
     }
     return {
         thumbUrl: originalUrl ?? null,
-        fullPhotoUrl: originalUrl ?? null,
+        fullPhotoUrl: original ?? null,
     };
 }
 
