@@ -1,4 +1,4 @@
-![CI](https://github.com/aidai87/manas-menu-back/actions/workflows/update_menu.yml/badge.svg)
+![CI](https://github.com/aidai87/manas-menu-back/.github/workflows/update_menu.yml/badge.svg)
 
 # back-manas
 
