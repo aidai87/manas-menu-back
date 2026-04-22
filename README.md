@@ -1,3 +1,5 @@
+![CI](https://github.com/aidai87/manas-menu-back/actions/workflows/update_menu.yml/badge.svg)
+
 # back-manas
 
 Backend for Manas University cafeteria menu. Scrapes the daily cafeteria menu and kiraathane (cafe) menu from [beslenme.manas.edu.kg](https://beslenme.manas.edu.kg) and serves it as a JSON API with translations in Turkish, Russian, and English.
