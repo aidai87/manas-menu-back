@@ -1,50 +1,6 @@
 {
   "foods": [
     {
-      "id": "yogurtlu_eriste_corbasi",
-      "name": {
-        "tr": "Yoğurtlu Erişte Çorbası",
-        "ru": "Суп",
-        "en": "Soup"
-      },
-      "calories": 146,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/yogurtlu_eriste_corbasi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/yogurtlu_eriste_corbasi.jpg"
-    },
-    {
-      "id": "tavuk_baget_firin_patates",
-      "name": {
-        "tr": "Tavuk Baget-Fırın Patates",
-        "ru": "Куриные голени с запеченным картофелем",
-        "en": "Chicken Drumstick with Baked Potato"
-      },
-      "calories": 402,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/tavuk_baget_firin_patates.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/tavuk_baget_firin_patates.jpg"
-    },
-    {
-      "id": "sehriyeli_pirinc_pilavi",
-      "name": {
-        "tr": "Şehriyeli Pirinç Pilavı",
-        "ru": "Рисовый плов с вермишелью",
-        "en": "Vermicelli Rice Pilaf"
-      },
-      "calories": 365,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/sehriyeli_pirinc_pilavi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/sehriyeli_pirinc_pilavi.jpg"
-    },
-    {
-      "id": "karisik_komposto",
-      "name": {
-        "tr": "Karışık Komposto",
-        "ru": "Смешанный компот",
-        "en": "Mixed Compote"
-      },
-      "calories": 290,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/karisik_komposto.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/karisik_komposto.jpg"
-    },
-    {
       "id": "arpa_sehriye_corbasi",
       "name": {
         "tr": "Arpa Şehriye Çorbası",
@@ -144,6 +100,17 @@
       "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/pabaa7jSH35TlhwxZGFI7fxRhQvEUliK.jpg"
     },
     {
+      "id": "sehriyeli_pirinc_pilavi",
+      "name": {
+        "tr": "Şehriyeli Pirinç Pilavı",
+        "ru": "Рисовый плов с вермишелью",
+        "en": "Vermicelli Rice Pilaf"
+      },
+      "calories": 365,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/sehriyeli_pirinc_pilavi.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/sehriyeli_pirinc_pilavi.jpg"
+    },
+    {
       "id": "cacik",
       "name": {
         "tr": "Cacık",
@@ -153,6 +120,17 @@
       "calories": 200,
       "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/cacik.jpg",
       "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/cacik.jpg"
+    },
+    {
+      "id": "yogurtlu_eriste_corbasi",
+      "name": {
+        "tr": "Yoğurtlu Erişte Çorbası",
+        "ru": "Суп",
+        "en": "Soup"
+      },
+      "calories": 146,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/yogurtlu_eriste_corbasi.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/yogurtlu_eriste_corbasi.jpg"
     },
     {
       "id": "soslu_kofte",
@@ -234,15 +212,6 @@
   ],
   "menus": [
     {
-      "date": "2026-04-24",
-      "items": [
-        "yogurtlu_eriste_corbasi",
-        "tavuk_baget_firin_patates",
-        "sehriyeli_pirinc_pilavi",
-        "karisik_komposto"
-      ]
-    },
-    {
       "date": "2026-04-25",
       "items": [
         "arpa_sehriye_corbasi",
@@ -300,6 +269,6 @@
   "meta": {
     "timezone": "Asia/Bishkek",
     "source": "manas_kantin",
-    "lastUpdated": "2026-04-24T02:35:53.899Z"
+    "lastUpdated": "2026-04-25T02:25:47.817Z"
   }
 }
