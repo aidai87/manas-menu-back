@@ -1,50 +1,6 @@
 {
   "foods": [
     {
-      "id": "arpa_sehriye_corbasi",
-      "name": {
-        "tr": "Arpa Şehriye Çorbası",
-        "ru": "Суп с ячменной лапшой",
-        "en": "Barley Vermicelli Soup"
-      },
-      "calories": 186,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/arpa_sehriye_corbasi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/arpa_sehriye_corbasi.jpg"
-    },
-    {
-      "id": "patates_musakka",
-      "name": {
-        "tr": "Patates Musakka",
-        "ru": "Patates Musakka",
-        "en": "Patates Musakka"
-      },
-      "calories": 345,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/130.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/130.jpg"
-    },
-    {
-      "id": "soslu_makarna",
-      "name": {
-        "tr": "Soslu Makarna",
-        "ru": "Макароны с соусом",
-        "en": "Pasta with Sauce"
-      },
-      "calories": 322,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/soslu_makarna.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/soslu_makarna.jpg"
-    },
-    {
-      "id": "yogurt",
-      "name": {
-        "tr": "Yoğurt",
-        "ru": "Йогурт",
-        "en": "Yogurt"
-      },
-      "calories": 158,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/yogurt.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/yogurt.jpg"
-    },
-    {
       "id": "bors_corbasi",
       "name": {
         "tr": "Borş Çorbası",
@@ -76,6 +32,17 @@
       "calories": 323,
       "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/217.jpg",
       "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/217.jpg"
+    },
+    {
+      "id": "yogurt",
+      "name": {
+        "tr": "Yoğurt",
+        "ru": "Йогурт",
+        "en": "Yogurt"
+      },
+      "calories": 158,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/yogurt.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/yogurt.jpg"
     },
     {
       "id": "ezogelin_corbasi",
@@ -199,6 +166,17 @@
       "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/seker_pare.jpg"
     },
     {
+      "id": "soslu_makarna",
+      "name": {
+        "tr": "Soslu Makarna",
+        "ru": "Макароны с соусом",
+        "en": "Pasta with Sauce"
+      },
+      "calories": 322,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/soslu_makarna.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/soslu_makarna.jpg"
+    },
+    {
       "id": "suzme_mercimek_corbasi",
       "name": {
         "tr": "Süzme Mercimek Çorbası",
@@ -208,18 +186,20 @@
       "calories": 176,
       "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/suzme_mercimek_corbasi.jpg",
       "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/suzme_mercimek_corbasi.jpg"
+    },
+    {
+      "id": "patates_musakka",
+      "name": {
+        "tr": "Patates Musakka",
+        "ru": "Patates Musakka",
+        "en": "Patates Musakka"
+      },
+      "calories": 345,
+      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/130.jpg",
+      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/130.jpg"
     }
   ],
   "menus": [
-    {
-      "date": "2026-04-25",
-      "items": [
-        "arpa_sehriye_corbasi",
-        "patates_musakka",
-        "soslu_makarna",
-        "yogurt"
-      ]
-    },
     {
       "date": "2026-04-26",
       "items": [
@@ -269,6 +249,6 @@
   "meta": {
     "timezone": "Asia/Bishkek",
     "source": "manas_kantin",
-    "lastUpdated": "2026-04-25T02:25:47.817Z"
+    "lastUpdated": "2026-04-26T02:41:11.373Z"
   }
 }
