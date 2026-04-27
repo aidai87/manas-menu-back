@@ -1,0 +1,210 @@
+openapi: 3.1.0
+info:
+  title: manas-menu-back
+  version: 1.0.0
+  description: |
+    JSON API serving the Manas University cafeteria daily menu and the
+    kiraathane (cafe) menu. Data is scraped from
+    https://beslenme.manas.edu.kg by a scheduled job and served as static
+    JSON; this API simply exposes the cached files.
+  contact:
+    name: aidai87
+    url: https://github.com/aidai87/manas-menu-back
+
+servers:
+  - url: http://localhost:3000
+    description: Local Express server (npm start)
+
+paths:
+  /health:
+    get:
+      summary: Liveness probe
+      description: Returns 200 if the process is up. Does not check upstream.
+      tags: [meta]
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Health'
+              examples:
+                ok:
+                  value:
+                    status: ok
+                    uptime: 12.34
+                    version: 1.0.0
+
+  /menu:
+    get:
+      summary: Weekly cafeteria menu
+      description: |
+        Returns the cafeteria menu grouped by date, plus a flat list of
+        unique foods with translations and calorie info. Cached for 5
+        minutes via Cache-Control.
+      tags: [menu]
+      responses:
+        '200':
+          description: Menu JSON
+          headers:
+            Cache-Control:
+              schema: { type: string }
+              example: public, max-age=300
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Menu'
+        '503':
+          description: Menu has not been scraped yet
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+              example:
+                error: menu_unavailable
+                message: Menu has not been scraped yet. Run `npm run scrape`.
+
+  /kiraathane:
+    get:
+      summary: Cafe (kiraathane) menu
+      description: Returns the cafe menu grouped by category with prices in KGS.
+      tags: [menu]
+      responses:
+        '200':
+          description: Kiraathane JSON
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Kiraathane'
+        '503':
+          description: Kiraathane menu has not been scraped yet
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+
+components:
+  schemas:
+    Health:
+      type: object
+      required: [status, uptime, version]
+      properties:
+        status: { type: string, enum: [ok] }
+        uptime: { type: number, description: Process uptime in seconds }
+        version: { type: string, description: package.json version }
+
+    LocalizedString:
+      type: object
+      required: [tr, ru, en]
+      properties:
+        tr: { type: string }
+        ru: { type: string }
+        en: { type: string }
+
+    Food:
+      type: object
+      required: [id, name, calories]
+      properties:
+        id:
+          type: string
+          pattern: '^[a-z0-9_]+$'
+          example: mercimek_corbasi
+        name:
+          $ref: '#/components/schemas/LocalizedString'
+        calories:
+          type: integer
+          minimum: 0
+        thumbUrl:
+          type: [string, 'null']
+          format: uri
+        fullPhotoUrl:
+          type: [string, 'null']
+          format: uri
+
+    DailyMenu:
+      type: object
+      required: [date, items]
+      properties:
+        date:
+          type: string
+          format: date
+          example: '2025-02-10'
+        items:
+          type: array
+          items:
+            type: string
+            description: Food id, references Food.id
+
+    MenuMeta:
+      type: object
+      required: [timezone, source, lastUpdated]
+      properties:
+        timezone: { type: string, example: Asia/Bishkek }
+        source: { type: string, example: manas_kantin }
+        lastUpdated: { type: string, format: date-time }
+
+    Menu:
+      type: object
+      required: [foods, menus, meta]
+      properties:
+        foods:
+          type: array
+          items: { $ref: '#/components/schemas/Food' }
+        menus:
+          type: array
+          items: { $ref: '#/components/schemas/DailyMenu' }
+        meta:
+          $ref: '#/components/schemas/MenuMeta'
+
+    KiraathaneItem:
+      type: object
+      required: [id, name, price]
+      properties:
+        id: { type: string, pattern: '^[a-z0-9_]+$' }
+        name: { type: string }
+        price:
+          type: integer
+          minimum: 0
+          description: Price in KGS
+        photoUrl:
+          type: [string, 'null']
+          format: uri
+
+    KiraathaneCategory:
+      type: object
+      required: [id, title, items]
+      properties:
+        id: { type: string, pattern: '^[a-z0-9_]+$' }
+        title: { type: string }
+        items:
+          type: array
+          items: { $ref: '#/components/schemas/KiraathaneItem' }
+
+    KiraathaneMeta:
+      type: object
+      required: [timezone, currency, lastUpdated]
+      properties:
+        timezone: { type: string, example: Asia/Bishkek }
+        currency: { type: string, enum: [KGS] }
+        lastUpdated: { type: string, format: date-time }
+
+    Kiraathane:
+      type: object
+      required: [categories, meta]
+      properties:
+        categories:
+          type: array
+          items: { $ref: '#/components/schemas/KiraathaneCategory' }
+        meta:
+          $ref: '#/components/schemas/KiraathaneMeta'
+
+    Error:
+      type: object
+      required: [error, message]
+      properties:
+        error:
+          type: string
+          description: Stable machine-readable error code
+        message:
+          type: string
+          description: Human-readable explanation, may suggest a recovery action
