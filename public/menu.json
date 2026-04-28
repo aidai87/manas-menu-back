@@ -1,50 +1,6 @@
 {
   "foods": [
     {
-      "id": "ezogelin_corbasi",
-      "name": {
-        "tr": "Ezogelin Çorbası",
-        "ru": "Суп Эзогелин",
-        "en": "Ezogelin Soup"
-      },
-      "calories": 217,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/ezogelin_corbasi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/ezogelin_corbasi.jpg"
-    },
-    {
-      "id": "etli_kuru_fasulye",
-      "name": {
-        "tr": "Etli Kuru Fasulye",
-        "ru": "Фасоль с мясом",
-        "en": "White Beans with Meat"
-      },
-      "calories": 310,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/pabaa7jSH35TlhwxZGFI7fxRhQvEUliK.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/pabaa7jSH35TlhwxZGFI7fxRhQvEUliK.jpg"
-    },
-    {
-      "id": "sehriyeli_pirinc_pilavi",
-      "name": {
-        "tr": "Şehriyeli Pirinç Pilavı",
-        "ru": "Рисовый плов с вермишелью",
-        "en": "Vermicelli Rice Pilaf"
-      },
-      "calories": 365,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/sehriyeli_pirinc_pilavi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/sehriyeli_pirinc_pilavi.jpg"
-    },
-    {
-      "id": "cacik",
-      "name": {
-        "tr": "Cacık",
-        "ru": "Джаджик",
-        "en": "Cacik (Yogurt Dip)"
-      },
-      "calories": 200,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/cacik.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/cacik.jpg"
-    },
-    {
       "id": "yogurtlu_eriste_corbasi",
       "name": {
         "tr": "Yoğurtlu Erişte Çorbası",
@@ -155,6 +111,17 @@
       "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/130.jpg"
     },
     {
+      "id": "sehriyeli_pirinc_pilavi",
+      "name": {
+        "tr": "Şehriyeli Pirinç Pilavı",
+        "ru": "Рисовый плов с вермишелью",
+        "en": "Vermicelli Rice Pilaf"
+      },
+      "calories": 365,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/sehriyeli_pirinc_pilavi.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/sehriyeli_pirinc_pilavi.jpg"
+    },
+    {
       "id": "yogurt",
       "name": {
         "tr": "Yoğurt",
@@ -167,15 +134,6 @@
     }
   ],
   "menus": [
-    {
-      "date": "2026-04-27",
-      "items": [
-        "ezogelin_corbasi",
-        "etli_kuru_fasulye",
-        "sehriyeli_pirinc_pilavi",
-        "cacik"
-      ]
-    },
     {
       "date": "2026-04-28",
       "items": [
@@ -207,6 +165,6 @@
   "meta": {
     "timezone": "Asia/Bishkek",
     "source": "manas_kantin",
-    "lastUpdated": "2026-04-27T18:25:41.851Z"
+    "lastUpdated": "2026-04-28T02:50:58.690Z"
   }
 }
