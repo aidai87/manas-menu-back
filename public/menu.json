@@ -1,50 +1,6 @@
 {
   "foods": [
     {
-      "id": "mas_corbasi",
-      "name": {
-        "tr": "Maş Çorbası",
-        "ru": "Суп",
-        "en": "Soup"
-      },
-      "calories": 155,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/caqN-bC5CCSEpJPC2z8VZIeMz5JADJl0.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/caqN-bC5CCSEpJPC2z8VZIeMz5JADJl0.jpg"
-    },
-    {
-      "id": "mevsim_turlusu",
-      "name": {
-        "tr": "Mevsim Türlüsü",
-        "ru": "Овощное рагу (сезонное)",
-        "en": "Seasonal Vegetable Stew"
-      },
-      "calories": 221,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/mevsim_turlusu.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/mevsim_turlusu.jpg"
-    },
-    {
-      "id": "seker_pare",
-      "name": {
-        "tr": "Şeker Pare",
-        "ru": "Шекерпаре",
-        "en": "Sekerpare"
-      },
-      "calories": 140,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/seker_pare.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/seker_pare.jpg"
-    },
-    {
-      "id": "soslu_makarna",
-      "name": {
-        "tr": "Soslu Makarna",
-        "ru": "Макароны с соусом",
-        "en": "Pasta with Sauce"
-      },
-      "calories": 322,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/soslu_makarna.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/soslu_makarna.jpg"
-    },
-    {
       "id": "suzme_mercimek_corbasi",
       "name": {
         "tr": "Süzme Mercimek Çorbası",
@@ -320,6 +276,17 @@
       "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/GPQdX8AnYhiW19x9jMtZybQGt1wxN54L.jpg"
     },
     {
+      "id": "seker_pare",
+      "name": {
+        "tr": "Şeker Pare",
+        "ru": "Шекерпаре",
+        "en": "Sekerpare"
+      },
+      "calories": 140,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/seker_pare.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/seker_pare.jpg"
+    },
+    {
       "id": "taneli_sebze_corbasi",
       "name": {
         "tr": "Taneli Sebze Çorbası",
@@ -351,6 +318,17 @@
       "calories": 310,
       "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/patatesli_gul_boregi.jpg",
       "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/patatesli_gul_boregi.jpg"
+    },
+    {
+      "id": "mas_corbasi",
+      "name": {
+        "tr": "Maş Çorbası",
+        "ru": "Суп",
+        "en": "Soup"
+      },
+      "calories": 155,
+      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/caqN-bC5CCSEpJPC2z8VZIeMz5JADJl0.jpg",
+      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/caqN-bC5CCSEpJPC2z8VZIeMz5JADJl0.jpg"
     },
     {
       "id": "lagman",
@@ -573,6 +551,17 @@
       "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/orman_kebabi.jpg"
     },
     {
+      "id": "soslu_makarna",
+      "name": {
+        "tr": "Soslu Makarna",
+        "ru": "Макароны с соусом",
+        "en": "Pasta with Sauce"
+      },
+      "calories": 322,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/soslu_makarna.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/soslu_makarna.jpg"
+    },
+    {
       "id": "kavurma",
       "name": {
         "tr": "Kavurma",
@@ -662,15 +651,6 @@
     }
   ],
   "menus": [
-    {
-      "date": "2026-04-29",
-      "items": [
-        "mas_corbasi",
-        "mevsim_turlusu",
-        "seker_pare",
-        "soslu_makarna"
-      ]
-    },
     {
       "date": "2026-04-30",
       "items": [
@@ -963,6 +943,6 @@
   "meta": {
     "timezone": "Asia/Bishkek",
     "source": "manas_kantin",
-    "lastUpdated": "2026-04-29T02:49:45.221Z"
+    "lastUpdated": "2026-04-30T02:52:01.550Z"
   }
 }
