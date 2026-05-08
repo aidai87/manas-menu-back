@@ -1,50 +1,6 @@
 {
   "foods": [
     {
-      "id": "ezogelin_corbasi",
-      "name": {
-        "tr": "Ezogelin Çorbası",
-        "ru": "Суп Эзогелин",
-        "en": "Ezogelin Soup"
-      },
-      "calories": 217,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/ezogelin_corbasi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/ezogelin_corbasi.jpg"
-    },
-    {
-      "id": "yaz_turlusu",
-      "name": {
-        "tr": "Yaz Türlüsü",
-        "ru": "Yaz Türlüsü",
-        "en": "Yaz Türlüsü"
-      },
-      "calories": 221,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/176.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/176.jpg"
-    },
-    {
-      "id": "lorlu_makarna",
-      "name": {
-        "tr": "Lorlu Makarna",
-        "ru": "Макароны",
-        "en": "Pasta"
-      },
-      "calories": 370,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/GPQdX8AnYhiW19x9jMtZybQGt1wxN54L.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/GPQdX8AnYhiW19x9jMtZybQGt1wxN54L.jpg"
-    },
-    {
-      "id": "seker_pare",
-      "name": {
-        "tr": "Şeker Pare",
-        "ru": "Шекерпаре",
-        "en": "Sekerpare"
-      },
-      "calories": 140,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/seker_pare.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/seker_pare.jpg"
-    },
-    {
       "id": "taneli_sebze_corbasi",
       "name": {
         "tr": "Taneli Sebze Çorbası",
@@ -155,6 +111,17 @@
       "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/soslu_kofte.jpg"
     },
     {
+      "id": "lorlu_makarna",
+      "name": {
+        "tr": "Lorlu Makarna",
+        "ru": "Макароны",
+        "en": "Pasta"
+      },
+      "calories": 370,
+      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/GPQdX8AnYhiW19x9jMtZybQGt1wxN54L.jpg",
+      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/GPQdX8AnYhiW19x9jMtZybQGt1wxN54L.jpg"
+    },
+    {
       "id": "meyve",
       "name": {
         "tr": "Meyve",
@@ -164,6 +131,17 @@
       "calories": 60,
       "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/meyve.jpg",
       "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/meyve.jpg"
+    },
+    {
+      "id": "ezogelin_corbasi",
+      "name": {
+        "tr": "Ezogelin Çorbası",
+        "ru": "Суп Эзогелин",
+        "en": "Ezogelin Soup"
+      },
+      "calories": 217,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/ezogelin_corbasi.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/ezogelin_corbasi.jpg"
     },
     {
       "id": "etli_kuru_fasulye",
@@ -463,6 +441,17 @@
       "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/orman_kebabi.jpg"
     },
     {
+      "id": "seker_pare",
+      "name": {
+        "tr": "Şeker Pare",
+        "ru": "Шекерпаре",
+        "en": "Sekerpare"
+      },
+      "calories": 140,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/seker_pare.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/seker_pare.jpg"
+    },
+    {
       "id": "soslu_makarna",
       "name": {
         "tr": "Soslu Makarna",
@@ -596,15 +585,6 @@
     }
   ],
   "menus": [
-    {
-      "date": "2026-05-07",
-      "items": [
-        "ezogelin_corbasi",
-        "yaz_turlusu",
-        "lorlu_makarna",
-        "seker_pare"
-      ]
-    },
     {
       "date": "2026-05-08",
       "items": [
@@ -825,6 +805,6 @@
   "meta": {
     "timezone": "Asia/Bishkek",
     "source": "manas_kantin",
-    "lastUpdated": "2026-05-07T02:48:23.095Z"
+    "lastUpdated": "2026-05-08T02:51:43.116Z"
   }
 }
