@@ -1,50 +1,6 @@
 {
   "foods": [
     {
-      "id": "taneli_sebze_corbasi",
-      "name": {
-        "tr": "Taneli Sebze Çorbası",
-        "ru": "Суп",
-        "en": "Soup"
-      },
-      "calories": 125,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/42.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/42.jpg"
-    },
-    {
-      "id": "ankara_tava",
-      "name": {
-        "tr": "Ankara Tava",
-        "ru": "Анкарская сковорода",
-        "en": "Ankara Style Pan"
-      },
-      "calories": 804,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/ankara_tava.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/ankara_tava.jpg"
-    },
-    {
-      "id": "patatesli_gul_boregi",
-      "name": {
-        "tr": "Patatesli Gül Böreği",
-        "ru": "Розовый бурек с картофелем",
-        "en": "Rose Shaped Potato Börek"
-      },
-      "calories": 310,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/patatesli_gul_boregi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/patatesli_gul_boregi.jpg"
-    },
-    {
-      "id": "yogurt",
-      "name": {
-        "tr": "Yoğurt",
-        "ru": "Йогурт",
-        "en": "Yogurt"
-      },
-      "calories": 158,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/yogurt.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/yogurt.jpg"
-    },
-    {
       "id": "mas_corbasi",
       "name": {
         "tr": "Maş Çorbası",
@@ -230,6 +186,17 @@
       "calories": 145,
       "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/135.jpg",
       "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/135.jpg"
+    },
+    {
+      "id": "yogurt",
+      "name": {
+        "tr": "Yoğurt",
+        "ru": "Йогурт",
+        "en": "Yogurt"
+      },
+      "calories": 158,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/yogurt.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/yogurt.jpg"
     },
     {
       "id": "yogurtlu_eriste_corbasi",
@@ -573,6 +540,17 @@
       "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/tas_kebap.jpg"
     },
     {
+      "id": "patatesli_gul_boregi",
+      "name": {
+        "tr": "Patatesli Gül Böreği",
+        "ru": "Розовый бурек с картофелем",
+        "en": "Rose Shaped Potato Börek"
+      },
+      "calories": 310,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/patatesli_gul_boregi.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/patatesli_gul_boregi.jpg"
+    },
+    {
       "id": "baklava",
       "name": {
         "tr": "Baklava",
@@ -585,15 +563,6 @@
     }
   ],
   "menus": [
-    {
-      "date": "2026-05-08",
-      "items": [
-        "taneli_sebze_corbasi",
-        "ankara_tava",
-        "patatesli_gul_boregi",
-        "yogurt"
-      ]
-    },
     {
       "date": "2026-05-09",
       "items": [
@@ -805,6 +774,6 @@
   "meta": {
     "timezone": "Asia/Bishkek",
     "source": "manas_kantin",
-    "lastUpdated": "2026-05-08T02:51:43.116Z"
+    "lastUpdated": "2026-05-09T02:46:24.742Z"
   }
 }
