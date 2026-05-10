@@ -1,50 +1,6 @@
 {
   "foods": [
     {
-      "id": "mas_corbasi",
-      "name": {
-        "tr": "Maş Çorbası",
-        "ru": "Суп",
-        "en": "Soup"
-      },
-      "calories": 155,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/caqN-bC5CCSEpJPC2z8VZIeMz5JADJl0.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/caqN-bC5CCSEpJPC2z8VZIeMz5JADJl0.jpg"
-    },
-    {
-      "id": "lagman",
-      "name": {
-        "tr": "Lagman",
-        "ru": "Lagman",
-        "en": "Lagman"
-      },
-      "calories": 509,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/123.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/123.jpg"
-    },
-    {
-      "id": "cacik",
-      "name": {
-        "tr": "Cacık",
-        "ru": "Джаджик",
-        "en": "Cacik (Yogurt Dip)"
-      },
-      "calories": 200,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/cacik.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/cacik.jpg"
-    },
-    {
-      "id": "revani_tatlisi",
-      "name": {
-        "tr": "Revani Tatlısı",
-        "ru": "Ревани",
-        "en": "Revani Cake"
-      },
-      "calories": 323,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/revani_tatlisi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/revani_tatlisi.jpg"
-    },
-    {
       "id": "yayla_corbasi",
       "name": {
         "tr": "Yayla Çorbası",
@@ -164,6 +120,17 @@
       "calories": 360,
       "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/232.jpg",
       "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/232.jpg"
+    },
+    {
+      "id": "revani_tatlisi",
+      "name": {
+        "tr": "Revani Tatlısı",
+        "ru": "Ревани",
+        "en": "Revani Cake"
+      },
+      "calories": 323,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/revani_tatlisi.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/revani_tatlisi.jpg"
     },
     {
       "id": "sebzeli_eriste_corbasi",
@@ -296,6 +263,17 @@
       "calories": 326,
       "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/128.jpg",
       "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/128.jpg"
+    },
+    {
+      "id": "cacik",
+      "name": {
+        "tr": "Cacık",
+        "ru": "Джаджик",
+        "en": "Cacik (Yogurt Dip)"
+      },
+      "calories": 200,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/cacik.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/cacik.jpg"
     },
     {
       "id": "lokma_tatlisi",
@@ -529,6 +507,17 @@
       "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/279.jpg"
     },
     {
+      "id": "mas_corbasi",
+      "name": {
+        "tr": "Maş Çorbası",
+        "ru": "Суп",
+        "en": "Soup"
+      },
+      "calories": 155,
+      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/caqN-bC5CCSEpJPC2z8VZIeMz5JADJl0.jpg",
+      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/caqN-bC5CCSEpJPC2z8VZIeMz5JADJl0.jpg"
+    },
+    {
       "id": "tas_kebap",
       "name": {
         "tr": "Tas Kebap",
@@ -563,15 +552,6 @@
     }
   ],
   "menus": [
-    {
-      "date": "2026-05-09",
-      "items": [
-        "mas_corbasi",
-        "lagman",
-        "cacik",
-        "revani_tatlisi"
-      ]
-    },
     {
       "date": "2026-05-10",
       "items": [
@@ -774,6 +754,6 @@
   "meta": {
     "timezone": "Asia/Bishkek",
     "source": "manas_kantin",
-    "lastUpdated": "2026-05-09T02:46:24.742Z"
+    "lastUpdated": "2026-05-10T02:53:08.620Z"
   }
 }
