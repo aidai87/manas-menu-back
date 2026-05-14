@@ -1,50 +1,6 @@
 {
   "foods": [
     {
-      "id": "sebzeli_eriste_corbasi",
-      "name": {
-        "tr": "Sebzeli Erişte Çorbası",
-        "ru": "Суп",
-        "en": "Soup"
-      },
-      "calories": 145,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/35.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/35.jpg"
-    },
-    {
-      "id": "sehriyeli_pirinc_pilavi",
-      "name": {
-        "tr": "Şehriyeli Pirinç Pilavı",
-        "ru": "Рисовый плов с вермишелью",
-        "en": "Vermicelli Rice Pilaf"
-      },
-      "calories": 365,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/sehriyeli_pirinc_pilavi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/sehriyeli_pirinc_pilavi.jpg"
-    },
-    {
-      "id": "yogurt",
-      "name": {
-        "tr": "Yoğurt",
-        "ru": "Йогурт",
-        "en": "Yogurt"
-      },
-      "calories": 158,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/yogurt.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/yogurt.jpg"
-    },
-    {
-      "id": "patlican_guvec",
-      "name": {
-        "tr": "Patlıcan Güveç",
-        "ru": "Patlıcan Güveç",
-        "en": "Patlıcan Güveç"
-      },
-      "calories": 150,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/hN3BSa2bv0zFI7F0Qdvx-GwRT7HmhRn1.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/hN3BSa2bv0zFI7F0Qdvx-GwRT7HmhRn1.jpg"
-    },
-    {
       "id": "yogurtlu_eriste_corbasi",
       "name": {
         "tr": "Yoğurtlu Erişte Çorbası",
@@ -199,6 +155,17 @@
       "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/130.jpg"
     },
     {
+      "id": "sehriyeli_pirinc_pilavi",
+      "name": {
+        "tr": "Şehriyeli Pirinç Pilavı",
+        "ru": "Рисовый плов с вермишелью",
+        "en": "Vermicelli Rice Pilaf"
+      },
+      "calories": 365,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/sehriyeli_pirinc_pilavi.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/sehriyeli_pirinc_pilavi.jpg"
+    },
+    {
       "id": "meyve",
       "name": {
         "tr": "Meyve",
@@ -221,15 +188,15 @@
       "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/suzme_mercimek_corbasi.jpg"
     },
     {
-      "id": "etli_nohut",
+      "id": "kurdak",
       "name": {
-        "tr": "Etli Nohut",
-        "ru": "Etli Nohut",
-        "en": "Etli Nohut"
+        "tr": "Kurdak",
+        "ru": "Kurdak",
+        "en": "Kurdak"
       },
-      "calories": 365,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/etli_nohut.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/etli_nohut.jpg"
+      "calories": 525,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/kurdak.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/kurdak.jpg"
     },
     {
       "id": "tutmac_corbasi",
@@ -285,6 +252,17 @@
       "calories": 201,
       "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/-Y6u4A1uEFQt8glR9meT0osPnco0DgCh.jpg",
       "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/-Y6u4A1uEFQt8glR9meT0osPnco0DgCh.jpg"
+    },
+    {
+      "id": "yogurt",
+      "name": {
+        "tr": "Yoğurt",
+        "ru": "Йогурт",
+        "en": "Yogurt"
+      },
+      "calories": 158,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/yogurt.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/yogurt.jpg"
     },
     {
       "id": "ezogelin_corbasi",
@@ -516,18 +494,20 @@
       "calories": 402,
       "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/241.jpg",
       "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/241.jpg"
+    },
+    {
+      "id": "sebzeli_eriste_corbasi",
+      "name": {
+        "tr": "Sebzeli Erişte Çorbası",
+        "ru": "Суп",
+        "en": "Soup"
+      },
+      "calories": 145,
+      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/35.jpg",
+      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/35.jpg"
     }
   ],
   "menus": [
-    {
-      "date": "2026-05-13",
-      "items": [
-        "sebzeli_eriste_corbasi",
-        "sehriyeli_pirinc_pilavi",
-        "yogurt",
-        "patlican_guvec"
-      ]
-    },
     {
       "date": "2026-05-14",
       "items": [
@@ -568,7 +548,7 @@
       "date": "2026-05-18",
       "items": [
         "suzme_mercimek_corbasi",
-        "etli_nohut",
+        "kurdak",
         "sehriyeli_pirinc_pilavi",
         "cacik"
       ]
@@ -694,6 +674,6 @@
   "meta": {
     "timezone": "Asia/Bishkek",
     "source": "manas_kantin",
-    "lastUpdated": "2026-05-13T02:58:12.024Z"
+    "lastUpdated": "2026-05-14T03:23:22.963Z"
   }
 }
