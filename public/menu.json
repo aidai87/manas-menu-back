@@ -1,50 +1,6 @@
 {
   "foods": [
     {
-      "id": "mercimek_corbasi",
-      "name": {
-        "tr": "Mercimek Çorbası",
-        "ru": "Чечевичный суп",
-        "en": "Lentil Soup"
-      },
-      "calories": 176,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/mercimek_corbasi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/mercimek_corbasi.jpg"
-    },
-    {
-      "id": "dana_rosto",
-      "name": {
-        "tr": "Dana Rosto",
-        "ru": "Dana Rosto",
-        "en": "Dana Rosto"
-      },
-      "calories": 370,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/69.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/69.jpg"
-    },
-    {
-      "id": "patates_pure",
-      "name": {
-        "tr": "Patates Püre",
-        "ru": "Patates Püre",
-        "en": "Patates Püre"
-      },
-      "calories": 80,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/210.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/210.jpg"
-    },
-    {
-      "id": "islak_kek",
-      "name": {
-        "tr": "Islak Kek",
-        "ru": "Влажный кекс",
-        "en": "Moist Cake"
-      },
-      "calories": 380,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/islak_kek.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/islak_kek.jpg"
-    },
-    {
       "id": "bors_corbasi",
       "name": {
         "tr": "Borş Çorbası",
@@ -320,6 +276,17 @@
       "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/234.jpg"
     },
     {
+      "id": "islak_kek",
+      "name": {
+        "tr": "Islak Kek",
+        "ru": "Влажный кекс",
+        "en": "Moist Cake"
+      },
+      "calories": 380,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/islak_kek.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/islak_kek.jpg"
+    },
+    {
       "id": "sebzeli_sis_kofte",
       "name": {
         "tr": "Sebzeli Şiş Köfte",
@@ -384,6 +351,17 @@
       "calories": 323,
       "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/revani_tatlisi.jpg",
       "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/revani_tatlisi.jpg"
+    },
+    {
+      "id": "mercimek_corbasi",
+      "name": {
+        "tr": "Mercimek Çorbası",
+        "ru": "Чечевичный суп",
+        "en": "Lentil Soup"
+      },
+      "calories": 176,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/mercimek_corbasi.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/mercimek_corbasi.jpg"
     },
     {
       "id": "patlican_parmak_kebap",
@@ -486,15 +464,6 @@
     }
   ],
   "menus": [
-    {
-      "date": "2026-05-15",
-      "items": [
-        "mercimek_corbasi",
-        "dana_rosto",
-        "patates_pure",
-        "islak_kek"
-      ]
-    },
     {
       "date": "2026-05-16",
       "items": [
@@ -643,6 +612,6 @@
   "meta": {
     "timezone": "Asia/Bishkek",
     "source": "manas_kantin",
-    "lastUpdated": "2026-05-15T03:27:34.747Z"
+    "lastUpdated": "2026-05-16T02:50:31.142Z"
   }
 }
