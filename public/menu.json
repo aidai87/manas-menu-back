@@ -1,50 +1,6 @@
 {
   "foods": [
     {
-      "id": "bors_corbasi",
-      "name": {
-        "tr": "Borş Çorbası",
-        "ru": "Суп",
-        "en": "Soup"
-      },
-      "calories": 240,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/4.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/4.jpg"
-    },
-    {
-      "id": "ozbek_pilavi",
-      "name": {
-        "tr": "Özbek Pilavı",
-        "ru": "Плов",
-        "en": "Pilaf"
-      },
-      "calories": 326,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/128.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/128.jpg"
-    },
-    {
-      "id": "cacik",
-      "name": {
-        "tr": "Cacık",
-        "ru": "Джаджик",
-        "en": "Cacik (Yogurt Dip)"
-      },
-      "calories": 200,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/cacik.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/cacik.jpg"
-    },
-    {
-      "id": "lokma_tatlisi",
-      "name": {
-        "tr": "Lokma Tatlısı",
-        "ru": "Десерт",
-        "en": "Dessert"
-      },
-      "calories": 200,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/lokma_tatlisi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/lokma_tatlisi.jpg"
-    },
-    {
       "id": "arpa_sehriye_corbasi",
       "name": {
         "tr": "Arpa Şehriye Çorbası",
@@ -109,6 +65,17 @@
       "calories": 525,
       "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/kurdak.jpg",
       "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/kurdak.jpg"
+    },
+    {
+      "id": "cacik",
+      "name": {
+        "tr": "Cacık",
+        "ru": "Джаджик",
+        "en": "Cacik (Yogurt Dip)"
+      },
+      "calories": 200,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/cacik.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/cacik.jpg"
     },
     {
       "id": "tutmac_corbasi",
@@ -465,15 +432,6 @@
   ],
   "menus": [
     {
-      "date": "2026-05-16",
-      "items": [
-        "bors_corbasi",
-        "ozbek_pilavi",
-        "cacik",
-        "lokma_tatlisi"
-      ]
-    },
-    {
       "date": "2026-05-17",
       "items": [
         "arpa_sehriye_corbasi",
@@ -612,6 +570,6 @@
   "meta": {
     "timezone": "Asia/Bishkek",
     "source": "manas_kantin",
-    "lastUpdated": "2026-05-16T02:50:31.142Z"
+    "lastUpdated": "2026-05-17T03:23:17.053Z"
   }
 }
