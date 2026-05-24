@@ -1,50 +1,6 @@
 {
   "foods": [
     {
-      "id": "yesil_mercimek_corbasi",
-      "name": {
-        "tr": "Yeşil Mercimek Çorbası",
-        "ru": "Суп",
-        "en": "Soup"
-      },
-      "calories": 176,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/47.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/47.jpg"
-    },
-    {
-      "id": "et_haslama",
-      "name": {
-        "tr": "Et Haşlama",
-        "ru": "Отварное мясо",
-        "en": "Boiled Meat"
-      },
-      "calories": 900,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/et_haslama.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/et_haslama.jpg"
-    },
-    {
-      "id": "tel_sehriyeli_bulgur_pilavi",
-      "name": {
-        "tr": "Tel Şehriyeli Bulgur Pilavı",
-        "ru": "Плов",
-        "en": "Pilaf"
-      },
-      "calories": 320,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/234.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/234.jpg"
-    },
-    {
-      "id": "islak_kek",
-      "name": {
-        "tr": "Islak Kek",
-        "ru": "Влажный кекс",
-        "en": "Moist Cake"
-      },
-      "calories": 380,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/islak_kek.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/islak_kek.jpg"
-    },
-    {
       "id": "elvan_corbasi",
       "name": {
         "tr": "Elvan Çorbası",
@@ -307,18 +263,20 @@
       "calories": 145,
       "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/35.jpg",
       "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/35.jpg"
+    },
+    {
+      "id": "et_haslama",
+      "name": {
+        "tr": "Et Haşlama",
+        "ru": "Отварное мясо",
+        "en": "Boiled Meat"
+      },
+      "calories": 900,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/et_haslama.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/et_haslama.jpg"
     }
   ],
   "menus": [
-    {
-      "date": "2026-05-23",
-      "items": [
-        "yesil_mercimek_corbasi",
-        "et_haslama",
-        "tel_sehriyeli_bulgur_pilavi",
-        "islak_kek"
-      ]
-    },
     {
       "date": "2026-05-24",
       "items": [
@@ -395,6 +353,6 @@
   "meta": {
     "timezone": "Asia/Bishkek",
     "source": "manas_kantin",
-    "lastUpdated": "2026-05-23T02:53:19.449Z"
+    "lastUpdated": "2026-05-24T03:32:48.811Z"
   }
 }
