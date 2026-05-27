@@ -1,50 +1,6 @@
 {
   "foods": [
     {
-      "id": "yayla_corbasi",
-      "name": {
-        "tr": "Yayla Çorbası",
-        "ru": "Суп Яйла",
-        "en": "Yayla Soup"
-      },
-      "calories": 175,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/yayla_corbasi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/yayla_corbasi.jpg"
-    },
-    {
-      "id": "soslu_kofte",
-      "name": {
-        "tr": "Soslu Köfte",
-        "ru": "Котлеты",
-        "en": "Meatballs"
-      },
-      "calories": 315,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/soslu_kofte.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/soslu_kofte.jpg"
-    },
-    {
-      "id": "lorlu_makarna",
-      "name": {
-        "tr": "Lorlu Makarna",
-        "ru": "Макароны",
-        "en": "Pasta"
-      },
-      "calories": 370,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/GPQdX8AnYhiW19x9jMtZybQGt1wxN54L.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/GPQdX8AnYhiW19x9jMtZybQGt1wxN54L.jpg"
-    },
-    {
-      "id": "revani_tatlisi",
-      "name": {
-        "tr": "Revani Tatlısı",
-        "ru": "Ревани",
-        "en": "Revani Cake"
-      },
-      "calories": 323,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/revani_tatlisi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/revani_tatlisi.jpg"
-    },
-    {
       "id": "mercimek_corbasi",
       "name": {
         "tr": "Mercimek Çorbası",
@@ -234,15 +190,6 @@
   ],
   "menus": [
     {
-      "date": "2026-05-26",
-      "items": [
-        "yayla_corbasi",
-        "soslu_kofte",
-        "lorlu_makarna",
-        "revani_tatlisi"
-      ]
-    },
-    {
       "date": "2026-05-27",
       "items": [
         "mercimek_corbasi",
@@ -291,6 +238,6 @@
   "meta": {
     "timezone": "Asia/Bishkek",
     "source": "manas_kantin",
-    "lastUpdated": "2026-05-26T03:29:28.450Z"
+    "lastUpdated": "2026-05-27T03:43:08.357Z"
   }
 }
