@@ -1,50 +1,6 @@
 {
   "foods": [
     {
-      "id": "arpa_sehriye_corbasi",
-      "name": {
-        "tr": "Arpa Şehriye Çorbası",
-        "ru": "Суп с ячменной лапшой",
-        "en": "Barley Vermicelli Soup"
-      },
-      "calories": 186,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/arpa_sehriye_corbasi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/arpa_sehriye_corbasi.jpg"
-    },
-    {
-      "id": "etli_taze_fasulye",
-      "name": {
-        "tr": "Etli Taze Fasulye",
-        "ru": "Etli Taze Fasulye",
-        "en": "Etli Taze Fasulye"
-      },
-      "calories": 310,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/H6V_jUS1ROiXvxfAHKnhZJwX6StrSy0n.png",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/H6V_jUS1ROiXvxfAHKnhZJwX6StrSy0n.png"
-    },
-    {
-      "id": "sehriyeli_bulgur_pilavi",
-      "name": {
-        "tr": "Şehriyeli Bulgur Pilavı",
-        "ru": "Плов",
-        "en": "Pilaf"
-      },
-      "calories": 315,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/sehriyeli_bulgur_pilavi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/sehriyeli_bulgur_pilavi.jpg"
-    },
-    {
-      "id": "meyve",
-      "name": {
-        "tr": "Meyve",
-        "ru": "Фрукты",
-        "en": "Fruit"
-      },
-      "calories": 60,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/meyve.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/meyve.jpg"
-    },
-    {
       "id": "elvan_corbasi",
       "name": {
         "tr": "Elvan Çorbası",
@@ -153,18 +109,31 @@
       "calories": 900,
       "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/et_haslama.jpg",
       "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/et_haslama.jpg"
+    },
+    {
+      "id": "sehriyeli_bulgur_pilavi",
+      "name": {
+        "tr": "Şehriyeli Bulgur Pilavı",
+        "ru": "Плов",
+        "en": "Pilaf"
+      },
+      "calories": 315,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/sehriyeli_bulgur_pilavi.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/sehriyeli_bulgur_pilavi.jpg"
+    },
+    {
+      "id": "meyve",
+      "name": {
+        "tr": "Meyve",
+        "ru": "Фрукты",
+        "en": "Fruit"
+      },
+      "calories": 60,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/meyve.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/meyve.jpg"
     }
   ],
   "menus": [
-    {
-      "date": "2026-05-28",
-      "items": [
-        "arpa_sehriye_corbasi",
-        "etli_taze_fasulye",
-        "sehriyeli_bulgur_pilavi",
-        "meyve"
-      ]
-    },
     {
       "date": "2026-05-29",
       "items": [
@@ -196,6 +165,6 @@
   "meta": {
     "timezone": "Asia/Bishkek",
     "source": "manas_kantin",
-    "lastUpdated": "2026-05-28T03:32:27.219Z"
+    "lastUpdated": "2026-05-29T03:32:46.231Z"
   }
 }
