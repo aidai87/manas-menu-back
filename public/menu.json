@@ -1,50 +1,6 @@
 {
   "foods": [
     {
-      "id": "mas_corbasi",
-      "name": {
-        "tr": "Maş Çorbası",
-        "ru": "Суп",
-        "en": "Soup"
-      },
-      "calories": 155,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/caqN-bC5CCSEpJPC2z8VZIeMz5JADJl0.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/caqN-bC5CCSEpJPC2z8VZIeMz5JADJl0.jpg"
-    },
-    {
-      "id": "tas_kebap",
-      "name": {
-        "tr": "Tas Kebap",
-        "ru": "Tas Kebap",
-        "en": "Tas Kebap"
-      },
-      "calories": 343,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/tas_kebap.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/tas_kebap.jpg"
-    },
-    {
-      "id": "patatesli_gul_boregi",
-      "name": {
-        "tr": "Patatesli Gül Böreği",
-        "ru": "Розовый бурек с картофелем",
-        "en": "Rose Shaped Potato Börek"
-      },
-      "calories": 310,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/patatesli_gul_boregi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/patatesli_gul_boregi.jpg"
-    },
-    {
-      "id": "baklava",
-      "name": {
-        "tr": "Baklava",
-        "ru": "Пахлава",
-        "en": "Baklava"
-      },
-      "calories": 402,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/241.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/241.jpg"
-    },
-    {
       "id": "sebzeli_eriste_corbasi",
       "name": {
         "tr": "Sebzeli Erişte Çorbası",
@@ -91,15 +47,6 @@
   ],
   "menus": [
     {
-      "date": "2026-05-30",
-      "items": [
-        "mas_corbasi",
-        "tas_kebap",
-        "patatesli_gul_boregi",
-        "baklava"
-      ]
-    },
-    {
       "date": "2026-05-31",
       "items": [
         "sebzeli_eriste_corbasi",
@@ -112,6 +59,6 @@
   "meta": {
     "timezone": "Asia/Bishkek",
     "source": "manas_kantin",
-    "lastUpdated": "2026-05-30T02:58:28.476Z"
+    "lastUpdated": "2026-05-31T03:45:28.307Z"
   }
 }
