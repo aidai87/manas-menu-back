@@ -1,50 +1,6 @@
 {
   "foods": [
     {
-      "id": "elvan_corbasi",
-      "name": {
-        "tr": "Elvan Çorbası",
-        "ru": "Суп Эльван",
-        "en": "Elvan Soup"
-      },
-      "calories": 95,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/elvan_corbasi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/elvan_corbasi.jpg"
-    },
-    {
-      "id": "sis_kofte_firin_patates",
-      "name": {
-        "tr": "Şiş Köfte-Fırın Patates",
-        "ru": "Котлеты",
-        "en": "Meatballs"
-      },
-      "calories": 490,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/bh8az4OfiixpzMwk5Mb5S0ngmJZBux-s.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/bh8az4OfiixpzMwk5Mb5S0ngmJZBux-s.jpg"
-    },
-    {
-      "id": "soslu_bulgur_pilavi",
-      "name": {
-        "tr": "Soslu Bulgur Pilavı",
-        "ru": "Булгур плов с соусом",
-        "en": "Bulgur Pilaf with Sauce"
-      },
-      "calories": 315,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/soslu_bulgur_pilavi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/soslu_bulgur_pilavi.jpg"
-    },
-    {
-      "id": "coban_salata",
-      "name": {
-        "tr": "Çoban Salata",
-        "ru": "Çoban Salata",
-        "en": "Çoban Salata"
-      },
-      "calories": 115,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/249.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/249.jpg"
-    },
-    {
       "id": "sebzeli_eriste_corbasi",
       "name": {
         "tr": "Sebzeli Erişte Çorbası",
@@ -177,6 +133,17 @@
       "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/279.jpg"
     },
     {
+      "id": "elvan_corbasi",
+      "name": {
+        "tr": "Elvan Çorbası",
+        "ru": "Суп Эльван",
+        "en": "Elvan Soup"
+      },
+      "calories": 95,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/elvan_corbasi.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/elvan_corbasi.jpg"
+    },
+    {
       "id": "orman_kebabi",
       "name": {
         "tr": "Orman Kebabı",
@@ -219,6 +186,28 @@
       "calories": 270,
       "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/firin_kofte_fri.jpg",
       "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/firin_kofte_fri.jpg"
+    },
+    {
+      "id": "soslu_bulgur_pilavi",
+      "name": {
+        "tr": "Soslu Bulgur Pilavı",
+        "ru": "Булгур плов с соусом",
+        "en": "Bulgur Pilaf with Sauce"
+      },
+      "calories": 315,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/soslu_bulgur_pilavi.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/soslu_bulgur_pilavi.jpg"
+    },
+    {
+      "id": "coban_salata",
+      "name": {
+        "tr": "Çoban Salata",
+        "ru": "Çoban Salata",
+        "en": "Çoban Salata"
+      },
+      "calories": 115,
+      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/249.jpg",
+      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/249.jpg"
     },
     {
       "id": "tutmac_corbasi",
@@ -300,15 +289,6 @@
   ],
   "menus": [
     {
-      "date": "2026-06-16",
-      "items": [
-        "elvan_corbasi",
-        "sis_kofte_firin_patates",
-        "soslu_bulgur_pilavi",
-        "coban_salata"
-      ]
-    },
-    {
       "date": "2026-06-17",
       "items": [
         "sebzeli_eriste_corbasi",
@@ -384,6 +364,6 @@
   "meta": {
     "timezone": "Asia/Bishkek",
     "source": "manas_kantin",
-    "lastUpdated": "2026-06-16T04:02:34.511Z"
+    "lastUpdated": "2026-06-17T04:03:42.920Z"
   }
 }
