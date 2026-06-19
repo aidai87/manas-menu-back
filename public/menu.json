@@ -1,50 +1,6 @@
 {
   "foods": [
     {
-      "id": "taneli_sebze_corbasi",
-      "name": {
-        "tr": "Taneli Sebze Çorbası",
-        "ru": "Суп",
-        "en": "Soup"
-      },
-      "calories": 125,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/42.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/42.jpg"
-    },
-    {
-      "id": "patlican_parmak_kebap",
-      "name": {
-        "tr": "Patlıcan Parmak Kebap",
-        "ru": "Patlıcan Parmak Kebap",
-        "en": "Patlıcan Parmak Kebap"
-      },
-      "calories": 340,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/ahiQrzCVj2_EArbvgmt_uLg3vfX7n7Bk.png",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/ahiQrzCVj2_EArbvgmt_uLg3vfX7n7Bk.png"
-    },
-    {
-      "id": "sehriyeli_bulgur_pilavi",
-      "name": {
-        "tr": "Şehriyeli Bulgur Pilavı",
-        "ru": "Плов",
-        "en": "Pilaf"
-      },
-      "calories": 315,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/sehriyeli_bulgur_pilavi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/sehriyeli_bulgur_pilavi.jpg"
-    },
-    {
-      "id": "yogurt",
-      "name": {
-        "tr": "Yoğurt",
-        "ru": "Йогурт",
-        "en": "Yogurt"
-      },
-      "calories": 158,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/yogurt.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/yogurt.jpg"
-    },
-    {
       "id": "ezogelin_corbasi",
       "name": {
         "tr": "Ezogelin Çorbası",
@@ -243,6 +199,17 @@
       "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/135.jpg"
     },
     {
+      "id": "yogurt",
+      "name": {
+        "tr": "Yoğurt",
+        "ru": "Йогурт",
+        "en": "Yogurt"
+      },
+      "calories": 158,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/yogurt.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/yogurt.jpg"
+    },
+    {
       "id": "sebzeli_eriste_corbasi",
       "name": {
         "tr": "Sebzeli Erişte Çorbası",
@@ -277,15 +244,6 @@
     }
   ],
   "menus": [
-    {
-      "date": "2026-06-18",
-      "items": [
-        "taneli_sebze_corbasi",
-        "patlican_parmak_kebap",
-        "sehriyeli_bulgur_pilavi",
-        "yogurt"
-      ]
-    },
     {
       "date": "2026-06-19",
       "items": [
@@ -344,6 +302,6 @@
   "meta": {
     "timezone": "Asia/Bishkek",
     "source": "manas_kantin",
-    "lastUpdated": "2026-06-18T03:54:28.963Z"
+    "lastUpdated": "2026-06-19T04:14:35.207Z"
   }
 }
