@@ -1,50 +1,6 @@
 {
   "foods": [
     {
-      "id": "ezogelin_corbasi",
-      "name": {
-        "tr": "Ezogelin Çorbası",
-        "ru": "Суп Эзогелин",
-        "en": "Ezogelin Soup"
-      },
-      "calories": 217,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/ezogelin_corbasi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/ezogelin_corbasi.jpg"
-    },
-    {
-      "id": "biber_dolma",
-      "name": {
-        "tr": "Biber Dolma",
-        "ru": "Фаршированный перец",
-        "en": "Stuffed Peppers"
-      },
-      "calories": 226,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/63.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/63.jpg"
-    },
-    {
-      "id": "patatesli_gul_boregi",
-      "name": {
-        "tr": "Patatesli Gül Böreği",
-        "ru": "Розовый бурек с картофелем",
-        "en": "Rose Shaped Potato Börek"
-      },
-      "calories": 310,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/patatesli_gul_boregi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/patatesli_gul_boregi.jpg"
-    },
-    {
-      "id": "soguk_ayran_asi",
-      "name": {
-        "tr": "Soğuk Ayran Aşı",
-        "ru": "Айран",
-        "en": "Ayran"
-      },
-      "calories": 150,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/279.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/279.jpg"
-    },
-    {
       "id": "elvan_corbasi",
       "name": {
         "tr": "Elvan Çorbası",
@@ -245,15 +201,6 @@
   ],
   "menus": [
     {
-      "date": "2026-06-19",
-      "items": [
-        "ezogelin_corbasi",
-        "biber_dolma",
-        "patatesli_gul_boregi",
-        "soguk_ayran_asi"
-      ]
-    },
-    {
       "date": "2026-06-22",
       "items": [
         "elvan_corbasi",
@@ -302,6 +249,6 @@
   "meta": {
     "timezone": "Asia/Bishkek",
     "source": "manas_kantin",
-    "lastUpdated": "2026-06-19T04:14:35.207Z"
+    "lastUpdated": "2026-06-20T03:36:32.079Z"
   }
 }
