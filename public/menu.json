@@ -1,50 +1,6 @@
 {
   "foods": [
     {
-      "id": "arpa_sehriye_corbasi",
-      "name": {
-        "tr": "Arpa Şehriye Çorbası",
-        "ru": "Суп с ячменной лапшой",
-        "en": "Barley Vermicelli Soup"
-      },
-      "calories": 186,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/arpa_sehriye_corbasi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/arpa_sehriye_corbasi.jpg"
-    },
-    {
-      "id": "firin_kofte_fri",
-      "name": {
-        "tr": "Fırın Köfte-Fri",
-        "ru": "Котлеты",
-        "en": "Meatballs"
-      },
-      "calories": 270,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/firin_kofte_fri.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/firin_kofte_fri.jpg"
-    },
-    {
-      "id": "soslu_bulgur_pilavi",
-      "name": {
-        "tr": "Soslu Bulgur Pilavı",
-        "ru": "Булгур плов с соусом",
-        "en": "Bulgur Pilaf with Sauce"
-      },
-      "calories": 315,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/soslu_bulgur_pilavi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/soslu_bulgur_pilavi.jpg"
-    },
-    {
-      "id": "coban_salata",
-      "name": {
-        "tr": "Çoban Salata",
-        "ru": "Çoban Salata",
-        "en": "Çoban Salata"
-      },
-      "calories": 115,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/249.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/249.jpg"
-    },
-    {
       "id": "tutmac_corbasi",
       "name": {
         "tr": "Tutmaç Çorbası",
@@ -155,6 +111,17 @@
       "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/kurdak.jpg"
     },
     {
+      "id": "soslu_bulgur_pilavi",
+      "name": {
+        "tr": "Soslu Bulgur Pilavı",
+        "ru": "Булгур плов с соусом",
+        "en": "Bulgur Pilaf with Sauce"
+      },
+      "calories": 315,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/soslu_bulgur_pilavi.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/soslu_bulgur_pilavi.jpg"
+    },
+    {
       "id": "revani_tatlisi",
       "name": {
         "tr": "Revani Tatlısı",
@@ -167,15 +134,6 @@
     }
   ],
   "menus": [
-    {
-      "date": "2026-06-23",
-      "items": [
-        "arpa_sehriye_corbasi",
-        "firin_kofte_fri",
-        "soslu_bulgur_pilavi",
-        "coban_salata"
-      ]
-    },
     {
       "date": "2026-06-24",
       "items": [
@@ -207,6 +165,6 @@
   "meta": {
     "timezone": "Asia/Bishkek",
     "source": "manas_kantin",
-    "lastUpdated": "2026-06-23T03:30:28.885Z"
+    "lastUpdated": "2026-06-24T03:31:56.267Z"
   }
 }
