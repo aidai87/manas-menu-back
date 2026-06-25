@@ -1,50 +1,6 @@
 {
   "foods": [
     {
-      "id": "tutmac_corbasi",
-      "name": {
-        "tr": "Tutmaç Çorbası",
-        "ru": "Суп Тутмач",
-        "en": "Tutmac Soup"
-      },
-      "calories": 182,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/tutmac_corbasi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/tutmac_corbasi.jpg"
-    },
-    {
-      "id": "sebzeli_kebap",
-      "name": {
-        "tr": "Sebzeli Kebap",
-        "ru": "Sebzeli Kebap",
-        "en": "Sebzeli Kebap"
-      },
-      "calories": 191,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/149.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/149.jpg"
-    },
-    {
-      "id": "spagetti",
-      "name": {
-        "tr": "Spagetti",
-        "ru": "Spagetti",
-        "en": "Spagetti"
-      },
-      "calories": 360,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/232.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/232.jpg"
-    },
-    {
-      "id": "meyve",
-      "name": {
-        "tr": "Meyve",
-        "ru": "Фрукты",
-        "en": "Fruit"
-      },
-      "calories": 60,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/meyve.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/meyve.jpg"
-    },
-    {
       "id": "suzme_mercimek_corbasi",
       "name": {
         "tr": "Süzme Mercimek Çorbası",
@@ -135,15 +91,6 @@
   ],
   "menus": [
     {
-      "date": "2026-06-24",
-      "items": [
-        "tutmac_corbasi",
-        "sebzeli_kebap",
-        "spagetti",
-        "meyve"
-      ]
-    },
-    {
       "date": "2026-06-25",
       "items": [
         "suzme_mercimek_corbasi",
@@ -165,6 +112,6 @@
   "meta": {
     "timezone": "Asia/Bishkek",
     "source": "manas_kantin",
-    "lastUpdated": "2026-06-24T03:31:56.267Z"
+    "lastUpdated": "2026-06-25T03:29:32.108Z"
   }
 }
