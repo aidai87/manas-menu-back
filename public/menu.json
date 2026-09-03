@@ -89,39 +89,6 @@
       "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/yogurt.jpg"
     },
     {
-      "id": "elvan_corbasi",
-      "name": {
-        "tr": "Elvan Çorbası",
-        "ru": "Суп Эльван",
-        "en": "Elvan Soup"
-      },
-      "calories": 95,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/elvan_corbasi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/elvan_corbasi.jpg"
-    },
-    {
-      "id": "etli_taze_fasulye",
-      "name": {
-        "tr": "Etli Taze Fasulye",
-        "ru": "Etli Taze Fasulye",
-        "en": "Etli Taze Fasulye"
-      },
-      "calories": 310,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/H6V_jUS1ROiXvxfAHKnhZJwX6StrSy0n.png",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/H6V_jUS1ROiXvxfAHKnhZJwX6StrSy0n.png"
-    },
-    {
-      "id": "patatesli_gul_boregi",
-      "name": {
-        "tr": "Patatesli Gül Böreği",
-        "ru": "Розовый бурек с картофелем",
-        "en": "Rose Shaped Potato Börek"
-      },
-      "calories": 310,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/patatesli_gul_boregi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/patatesli_gul_boregi.jpg"
-    },
-    {
       "id": "sebzeli_eriste_corbasi",
       "name": {
         "tr": "Sebzeli Erişte Çorbası",
@@ -267,7 +234,7 @@
   ],
   "menus": [
     {
-      "date": "2026-09-02",
+      "date": "2026-09-03",
       "items": [
         "yogurtlu_eriste_corbasi",
         "mevsim_turlusu",
@@ -276,21 +243,12 @@
       ]
     },
     {
-      "date": "2026-09-03",
+      "date": "2026-09-04",
       "items": [
         "ezogelin_corbasi",
         "et_sote",
         "sehriyeli_pirinc_pilavi",
         "yogurt"
-      ]
-    },
-    {
-      "date": "2026-09-04",
-      "items": [
-        "elvan_corbasi",
-        "etli_taze_fasulye",
-        "patatesli_gul_boregi",
-        "meyve"
       ]
     },
     {
@@ -342,6 +300,6 @@
   "meta": {
     "timezone": "Asia/Bishkek",
     "source": "manas_kantin",
-    "lastUpdated": "2026-09-02T03:01:38.232Z"
+    "lastUpdated": "2026-09-03T03:03:04.241Z"
   }
 }
