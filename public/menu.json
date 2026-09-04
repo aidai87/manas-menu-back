@@ -1,50 +1,6 @@
 {
   "foods": [
     {
-      "id": "yogurtlu_eriste_corbasi",
-      "name": {
-        "tr": "Yoğurtlu Erişte Çorbası",
-        "ru": "Суп",
-        "en": "Soup"
-      },
-      "calories": 146,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/yogurtlu_eriste_corbasi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/yogurtlu_eriste_corbasi.jpg"
-    },
-    {
-      "id": "mevsim_turlusu",
-      "name": {
-        "tr": "Mevsim Türlüsü",
-        "ru": "Овощное рагу (сезонное)",
-        "en": "Seasonal Vegetable Stew"
-      },
-      "calories": 221,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/mevsim_turlusu.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/mevsim_turlusu.jpg"
-    },
-    {
-      "id": "soslu_bulgur_pilavi",
-      "name": {
-        "tr": "Soslu Bulgur Pilavı",
-        "ru": "Булгур плов с соусом",
-        "en": "Bulgur Pilaf with Sauce"
-      },
-      "calories": 315,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/soslu_bulgur_pilavi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/soslu_bulgur_pilavi.jpg"
-    },
-    {
-      "id": "meyve",
-      "name": {
-        "tr": "Meyve",
-        "ru": "Фрукты",
-        "en": "Fruit"
-      },
-      "calories": 60,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/meyve.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/meyve.jpg"
-    },
-    {
       "id": "ezogelin_corbasi",
       "name": {
         "tr": "Ezogelin Çorbası",
@@ -120,6 +76,17 @@
       "calories": 370,
       "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/GPQdX8AnYhiW19x9jMtZybQGt1wxN54L.jpg",
       "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/GPQdX8AnYhiW19x9jMtZybQGt1wxN54L.jpg"
+    },
+    {
+      "id": "meyve",
+      "name": {
+        "tr": "Meyve",
+        "ru": "Фрукты",
+        "en": "Fruit"
+      },
+      "calories": 60,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/meyve.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/meyve.jpg"
     },
     {
       "id": "suzme_mercimek_corbasi",
@@ -234,15 +201,6 @@
   ],
   "menus": [
     {
-      "date": "2026-09-03",
-      "items": [
-        "yogurtlu_eriste_corbasi",
-        "mevsim_turlusu",
-        "soslu_bulgur_pilavi",
-        "meyve"
-      ]
-    },
-    {
       "date": "2026-09-04",
       "items": [
         "ezogelin_corbasi",
@@ -300,6 +258,6 @@
   "meta": {
     "timezone": "Asia/Bishkek",
     "source": "manas_kantin",
-    "lastUpdated": "2026-09-03T03:03:04.241Z"
+    "lastUpdated": "2026-09-04T03:03:29.915Z"
   }
 }
