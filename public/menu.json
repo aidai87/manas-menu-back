@@ -1,50 +1,6 @@
 {
   "foods": [
     {
-      "id": "sebzeli_eriste_corbasi",
-      "name": {
-        "tr": "Sebzeli Erişte Çorbası",
-        "ru": "Суп",
-        "en": "Soup"
-      },
-      "calories": 145,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/RCYd6plN5dYWFhERpV0n8zdbyH9O-GdH.png",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/RCYd6plN5dYWFhERpV0n8zdbyH9O-GdH.png"
-    },
-    {
-      "id": "sebzeli_kebap",
-      "name": {
-        "tr": "Sebzeli Kebap",
-        "ru": "Sebzeli Kebap",
-        "en": "Sebzeli Kebap"
-      },
-      "calories": 191,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/149.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/149.jpg"
-    },
-    {
-      "id": "lorlu_makarna",
-      "name": {
-        "tr": "Lorlu Makarna",
-        "ru": "Макароны",
-        "en": "Pasta"
-      },
-      "calories": 370,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/GPQdX8AnYhiW19x9jMtZybQGt1wxN54L.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/GPQdX8AnYhiW19x9jMtZybQGt1wxN54L.jpg"
-    },
-    {
-      "id": "meyve",
-      "name": {
-        "tr": "Meyve",
-        "ru": "Фрукты",
-        "en": "Fruit"
-      },
-      "calories": 60,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/meyve.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/meyve.jpg"
-    },
-    {
       "id": "suzme_mercimek_corbasi",
       "name": {
         "tr": "Süzme Mercimek Çorbası",
@@ -122,6 +78,17 @@
       "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/eXLOzrdoQT7__xrqV_HgDYxYbbcVXUiG.png"
     },
     {
+      "id": "meyve",
+      "name": {
+        "tr": "Meyve",
+        "ru": "Фрукты",
+        "en": "Fruit"
+      },
+      "calories": 60,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/meyve.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/meyve.jpg"
+    },
+    {
       "id": "taneli_sebze_corbasi",
       "name": {
         "tr": "Taneli Sebze Çorbası",
@@ -190,15 +157,6 @@
   ],
   "menus": [
     {
-      "date": "2026-09-07",
-      "items": [
-        "sebzeli_eriste_corbasi",
-        "sebzeli_kebap",
-        "lorlu_makarna",
-        "meyve"
-      ]
-    },
-    {
       "date": "2026-09-08",
       "items": [
         "suzme_mercimek_corbasi",
@@ -238,6 +196,6 @@
   "meta": {
     "timezone": "Asia/Bishkek",
     "source": "manas_kantin",
-    "lastUpdated": "2026-09-07T03:02:20.988Z"
+    "lastUpdated": "2026-09-08T03:11:59.276Z"
   }
 }
