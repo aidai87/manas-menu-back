@@ -1,50 +1,6 @@
 {
   "foods": [
     {
-      "id": "suzme_mercimek_corbasi",
-      "name": {
-        "tr": "Süzme Mercimek Çorbası",
-        "ru": "Суп",
-        "en": "Soup"
-      },
-      "calories": 176,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/suzme_mercimek_corbasi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/suzme_mercimek_corbasi.jpg"
-    },
-    {
-      "id": "firin_kofte_fri",
-      "name": {
-        "tr": "Fırın Köfte-Fri",
-        "ru": "Котлеты",
-        "en": "Meatballs"
-      },
-      "calories": 270,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/firin_kofte_fri.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/firin_kofte_fri.jpg"
-    },
-    {
-      "id": "sehriyeli_pirinc_pilavi",
-      "name": {
-        "tr": "Şehriyeli Pirinç Pilavı",
-        "ru": "Рисовый плов с вермишелью",
-        "en": "Vermicelli Rice Pilaf"
-      },
-      "calories": 365,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/sehriyeli_pirinc_pilavi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/sehriyeli_pirinc_pilavi.jpg"
-    },
-    {
-      "id": "cacik",
-      "name": {
-        "tr": "Cacık",
-        "ru": "Джаджик",
-        "en": "Cacik (Yogurt Dip)"
-      },
-      "calories": 200,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/cacik.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/cacik.jpg"
-    },
-    {
       "id": "tutmac_corbasi",
       "name": {
         "tr": "Tutmaç Çorbası",
@@ -111,6 +67,17 @@
       "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/ahiQrzCVj2_EArbvgmt_uLg3vfX7n7Bk.png"
     },
     {
+      "id": "sehriyeli_pirinc_pilavi",
+      "name": {
+        "tr": "Şehriyeli Pirinç Pilavı",
+        "ru": "Рисовый плов с вермишелью",
+        "en": "Vermicelli Rice Pilaf"
+      },
+      "calories": 365,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/sehriyeli_pirinc_pilavi.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/sehriyeli_pirinc_pilavi.jpg"
+    },
+    {
       "id": "yogurt",
       "name": {
         "tr": "Yoğurt",
@@ -153,18 +120,20 @@
       "calories": 360,
       "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/232.jpg",
       "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/232.jpg"
+    },
+    {
+      "id": "cacik",
+      "name": {
+        "tr": "Cacık",
+        "ru": "Джаджик",
+        "en": "Cacik (Yogurt Dip)"
+      },
+      "calories": 200,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/cacik.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/cacik.jpg"
     }
   ],
   "menus": [
-    {
-      "date": "2026-09-08",
-      "items": [
-        "suzme_mercimek_corbasi",
-        "firin_kofte_fri",
-        "sehriyeli_pirinc_pilavi",
-        "cacik"
-      ]
-    },
     {
       "date": "2026-09-09",
       "items": [
@@ -196,6 +165,6 @@
   "meta": {
     "timezone": "Asia/Bishkek",
     "source": "manas_kantin",
-    "lastUpdated": "2026-09-08T03:11:59.276Z"
+    "lastUpdated": "2026-09-09T03:14:26.651Z"
   }
 }
