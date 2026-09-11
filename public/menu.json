@@ -1,50 +1,6 @@
 {
   "foods": [
     {
-      "id": "taneli_sebze_corbasi",
-      "name": {
-        "tr": "Taneli Sebze Çorbası",
-        "ru": "Суп",
-        "en": "Soup"
-      },
-      "calories": 125,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/42.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/42.jpg"
-    },
-    {
-      "id": "patlican_parmak_kebap",
-      "name": {
-        "tr": "Patlıcan Parmak Kebap",
-        "ru": "Patlıcan Parmak Kebap",
-        "en": "Patlıcan Parmak Kebap"
-      },
-      "calories": 340,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/ahiQrzCVj2_EArbvgmt_uLg3vfX7n7Bk.png",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/ahiQrzCVj2_EArbvgmt_uLg3vfX7n7Bk.png"
-    },
-    {
-      "id": "sehriyeli_pirinc_pilavi",
-      "name": {
-        "tr": "Şehriyeli Pirinç Pilavı",
-        "ru": "Рисовый плов с вермишелью",
-        "en": "Vermicelli Rice Pilaf"
-      },
-      "calories": 365,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/sehriyeli_pirinc_pilavi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/sehriyeli_pirinc_pilavi.jpg"
-    },
-    {
-      "id": "yogurt",
-      "name": {
-        "tr": "Yoğurt",
-        "ru": "Йогурт",
-        "en": "Yogurt"
-      },
-      "calories": 158,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/yogurt.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/yogurt.jpg"
-    },
-    {
       "id": "ezogelin_corbasi",
       "name": {
         "tr": "Ezogelin Çorbası",
@@ -109,6 +65,17 @@
       "calories": 370,
       "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/HQvjgmQ-UOQYnO7wv_65QBmHfyIRkbwR.png",
       "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/HQvjgmQ-UOQYnO7wv_65QBmHfyIRkbwR.png"
+    },
+    {
+      "id": "sehriyeli_pirinc_pilavi",
+      "name": {
+        "tr": "Şehriyeli Pirinç Pilavı",
+        "ru": "Рисовый плов с вермишелью",
+        "en": "Vermicelli Rice Pilaf"
+      },
+      "calories": 365,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/sehriyeli_pirinc_pilavi.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/sehriyeli_pirinc_pilavi.jpg"
     },
     {
       "id": "yogurtlu_eriste_corbasi",
@@ -210,6 +177,17 @@
       "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/132.jpg"
     },
     {
+      "id": "yogurt",
+      "name": {
+        "tr": "Yoğurt",
+        "ru": "Йогурт",
+        "en": "Yogurt"
+      },
+      "calories": 158,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/yogurt.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/yogurt.jpg"
+    },
+    {
       "id": "orman_kebabi",
       "name": {
         "tr": "Orman Kebabı",
@@ -277,15 +255,6 @@
     }
   ],
   "menus": [
-    {
-      "date": "2026-09-10",
-      "items": [
-        "taneli_sebze_corbasi",
-        "patlican_parmak_kebap",
-        "sehriyeli_pirinc_pilavi",
-        "yogurt"
-      ]
-    },
     {
       "date": "2026-09-11",
       "items": [
@@ -362,6 +331,6 @@
   "meta": {
     "timezone": "Asia/Bishkek",
     "source": "manas_kantin",
-    "lastUpdated": "2026-09-10T03:13:55.077Z"
+    "lastUpdated": "2026-09-11T03:09:17.054Z"
   }
 }
