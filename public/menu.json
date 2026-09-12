@@ -1,50 +1,6 @@
 {
   "foods": [
     {
-      "id": "ezogelin_corbasi",
-      "name": {
-        "tr": "Ezogelin Çorbası",
-        "ru": "Суп Эзогелин",
-        "en": "Ezogelin Soup"
-      },
-      "calories": 217,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/ezogelin_corbasi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/ezogelin_corbasi.jpg"
-    },
-    {
-      "id": "biber_dolma",
-      "name": {
-        "tr": "Biber Dolma",
-        "ru": "Фаршированный перец",
-        "en": "Stuffed Peppers"
-      },
-      "calories": 226,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/63.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/63.jpg"
-    },
-    {
-      "id": "spagetti",
-      "name": {
-        "tr": "Spagetti",
-        "ru": "Spagetti",
-        "en": "Spagetti"
-      },
-      "calories": 360,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/232.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/232.jpg"
-    },
-    {
-      "id": "cacik",
-      "name": {
-        "tr": "Cacık",
-        "ru": "Джаджик",
-        "en": "Cacik (Yogurt Dip)"
-      },
-      "calories": 200,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/cacik.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/cacik.jpg"
-    },
-    {
       "id": "suzme_mercimek_corbasi",
       "name": {
         "tr": "Süzme Mercimek Çorbası",
@@ -78,6 +34,17 @@
       "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/sehriyeli_pirinc_pilavi.jpg"
     },
     {
+      "id": "cacik",
+      "name": {
+        "tr": "Cacık",
+        "ru": "Джаджик",
+        "en": "Cacik (Yogurt Dip)"
+      },
+      "calories": 200,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/cacik.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/cacik.jpg"
+    },
+    {
       "id": "yogurtlu_eriste_corbasi",
       "name": {
         "tr": "Yoğurtlu Erişte Çorbası",
@@ -109,6 +76,17 @@
       "calories": 140,
       "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/seker_pare.jpg",
       "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/seker_pare.jpg"
+    },
+    {
+      "id": "spagetti",
+      "name": {
+        "tr": "Spagetti",
+        "ru": "Spagetti",
+        "en": "Spagetti"
+      },
+      "calories": 360,
+      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/232.jpg",
+      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/232.jpg"
     },
     {
       "id": "mas_corbasi",
@@ -188,6 +166,17 @@
       "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/yogurt.jpg"
     },
     {
+      "id": "ezogelin_corbasi",
+      "name": {
+        "tr": "Ezogelin Çorbası",
+        "ru": "Суп Эзогелин",
+        "en": "Ezogelin Soup"
+      },
+      "calories": 217,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/ezogelin_corbasi.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/ezogelin_corbasi.jpg"
+    },
+    {
       "id": "orman_kebabi",
       "name": {
         "tr": "Orman Kebabı",
@@ -256,15 +245,6 @@
   ],
   "menus": [
     {
-      "date": "2026-09-11",
-      "items": [
-        "ezogelin_corbasi",
-        "biber_dolma",
-        "spagetti",
-        "cacik"
-      ]
-    },
-    {
       "date": "2026-09-14",
       "items": [
         "suzme_mercimek_corbasi",
@@ -331,6 +311,6 @@
   "meta": {
     "timezone": "Asia/Bishkek",
     "source": "manas_kantin",
-    "lastUpdated": "2026-09-11T03:09:17.054Z"
+    "lastUpdated": "2026-09-12T03:15:47.829Z"
   }
 }
