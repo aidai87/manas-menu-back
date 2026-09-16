@@ -1,50 +1,6 @@
 {
   "foods": [
     {
-      "id": "yogurtlu_eriste_corbasi",
-      "name": {
-        "tr": "Yoğurtlu Erişte Çorbası",
-        "ru": "Суп",
-        "en": "Soup"
-      },
-      "calories": 146,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/yogurtlu_eriste_corbasi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/yogurtlu_eriste_corbasi.jpg"
-    },
-    {
-      "id": "izmir_kofte",
-      "name": {
-        "tr": "İzmir Köfte",
-        "ru": "Измирские котлеты",
-        "en": "Izmir Meatballs"
-      },
-      "calories": 365,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/izmir_kofte.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/izmir_kofte.jpg"
-    },
-    {
-      "id": "seker_pare",
-      "name": {
-        "tr": "Şeker Pare",
-        "ru": "Шекерпаре",
-        "en": "Sekerpare"
-      },
-      "calories": 140,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/seker_pare.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/seker_pare.jpg"
-    },
-    {
-      "id": "spagetti",
-      "name": {
-        "tr": "Spagetti",
-        "ru": "Spagetti",
-        "en": "Spagetti"
-      },
-      "calories": 360,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/232.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/232.jpg"
-    },
-    {
       "id": "mas_corbasi",
       "name": {
         "tr": "Maş Çorbası",
@@ -212,15 +168,6 @@
   ],
   "menus": [
     {
-      "date": "2026-09-15",
-      "items": [
-        "yogurtlu_eriste_corbasi",
-        "izmir_kofte",
-        "seker_pare",
-        "spagetti"
-      ]
-    },
-    {
       "date": "2026-09-16",
       "items": [
         "mas_corbasi",
@@ -269,6 +216,6 @@
   "meta": {
     "timezone": "Asia/Bishkek",
     "source": "manas_kantin",
-    "lastUpdated": "2026-09-15T03:32:44.306Z"
+    "lastUpdated": "2026-09-16T03:28:27.235Z"
   }
 }
