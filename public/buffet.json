@@ -295,7 +295,7 @@
         {
           "id": "legenda_su_0_5_lt",
           "name": "LEGENDA SU 0,5 LT",
-          "price": 27,
+          "price": 30,
           "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/legenda_su_0_5_lt.jpg"
         },
         {
@@ -316,6 +316,6 @@
   "meta": {
     "timezone": "Asia/Bishkek",
     "currency": "KGS",
-    "lastUpdated": "2026-09-16T03:28:27.531Z"
+    "lastUpdated": "2026-09-17T03:34:10.453Z"
   }
 }
