@@ -1,50 +1,6 @@
 {
   "foods": [
     {
-      "id": "mas_corbasi",
-      "name": {
-        "tr": "Maş Çorbası",
-        "ru": "Суп",
-        "en": "Soup"
-      },
-      "calories": 155,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/caqN-bC5CCSEpJPC2z8VZIeMz5JADJl0.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/caqN-bC5CCSEpJPC2z8VZIeMz5JADJl0.jpg"
-    },
-    {
-      "id": "ozbek_pilavi",
-      "name": {
-        "tr": "Özbek Pilavı",
-        "ru": "Плов",
-        "en": "Pilaf"
-      },
-      "calories": 326,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/128.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/128.jpg"
-    },
-    {
-      "id": "coban_salata",
-      "name": {
-        "tr": "Çoban Salata",
-        "ru": "Çoban Salata",
-        "en": "Çoban Salata"
-      },
-      "calories": 115,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/249.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/249.jpg"
-    },
-    {
-      "id": "yogurt",
-      "name": {
-        "tr": "Yoğurt",
-        "ru": "Йогурт",
-        "en": "Yogurt"
-      },
-      "calories": 158,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/yogurt.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/yogurt.jpg"
-    },
-    {
       "id": "mercimek_corbasi",
       "name": {
         "tr": "Mercimek Çorbası",
@@ -120,6 +76,17 @@
       "calories": 360,
       "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/232.jpg",
       "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/232.jpg"
+    },
+    {
+      "id": "yogurt",
+      "name": {
+        "tr": "Yoğurt",
+        "ru": "Йогурт",
+        "en": "Yogurt"
+      },
+      "calories": 158,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/yogurt.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/yogurt.jpg"
     },
     {
       "id": "tutmac_corbasi",
@@ -331,6 +298,17 @@
       "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/soslu_kofte.jpg"
     },
     {
+      "id": "mas_corbasi",
+      "name": {
+        "tr": "Maş Çorbası",
+        "ru": "Суп",
+        "en": "Soup"
+      },
+      "calories": 155,
+      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/caqN-bC5CCSEpJPC2z8VZIeMz5JADJl0.jpg",
+      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/caqN-bC5CCSEpJPC2z8VZIeMz5JADJl0.jpg"
+    },
+    {
       "id": "etli_taze_fasulye",
       "name": {
         "tr": "Etli Taze Fasulye",
@@ -343,15 +321,6 @@
     }
   ],
   "menus": [
-    {
-      "date": "2026-09-20",
-      "items": [
-        "mas_corbasi",
-        "ozbek_pilavi",
-        "coban_salata",
-        "yogurt"
-      ]
-    },
     {
       "date": "2026-09-21",
       "items": [
@@ -446,6 +415,6 @@
   "meta": {
     "timezone": "Asia/Bishkek",
     "source": "manas_kantin",
-    "lastUpdated": "2026-09-20T03:33:30.216Z"
+    "lastUpdated": "2026-09-21T03:28:09.714Z"
   }
 }
