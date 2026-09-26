@@ -1,50 +1,6 @@
 {
   "foods": [
     {
-      "id": "elvan_corbasi",
-      "name": {
-        "tr": "Elvan Çorbası",
-        "ru": "Суп Эльван",
-        "en": "Elvan Soup"
-      },
-      "calories": 95,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/elvan_corbasi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/elvan_corbasi.jpg"
-    },
-    {
-      "id": "etli_bezelye",
-      "name": {
-        "tr": "Etli Bezelye",
-        "ru": "Etli Bezelye",
-        "en": "Etli Bezelye"
-      },
-      "calories": 298,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/gFeDBWviM5pHtkKDqOsTdfs4KOQzk90v.png",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/gFeDBWviM5pHtkKDqOsTdfs4KOQzk90v.png"
-    },
-    {
-      "id": "soslu_makarna",
-      "name": {
-        "tr": "Soslu Makarna",
-        "ru": "Макароны с соусом",
-        "en": "Pasta with Sauce"
-      },
-      "calories": 322,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/soslu_makarna.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/soslu_makarna.jpg"
-    },
-    {
-      "id": "revani_tatlisi",
-      "name": {
-        "tr": "Revani Tatlısı",
-        "ru": "Ревани",
-        "en": "Revani Cake"
-      },
-      "calories": 323,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/revani_tatlisi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/revani_tatlisi.jpg"
-    },
-    {
       "id": "taneli_sebze_corbasi",
       "name": {
         "tr": "Taneli Sebze Çorbası",
@@ -122,6 +78,17 @@
       "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/sehriyeli_pirinc_pilavi.jpg"
     },
     {
+      "id": "revani_tatlisi",
+      "name": {
+        "tr": "Revani Tatlısı",
+        "ru": "Ревани",
+        "en": "Revani Cake"
+      },
+      "calories": 323,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/revani_tatlisi.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/revani_tatlisi.jpg"
+    },
+    {
       "id": "ezogelin_corbasi",
       "name": {
         "tr": "Ezogelin Çorbası",
@@ -164,6 +131,17 @@
       "calories": 200,
       "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/cacik.jpg",
       "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/cacik.jpg"
+    },
+    {
+      "id": "elvan_corbasi",
+      "name": {
+        "tr": "Elvan Çorbası",
+        "ru": "Суп Эльван",
+        "en": "Elvan Soup"
+      },
+      "calories": 95,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/elvan_corbasi.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/elvan_corbasi.jpg"
     },
     {
       "id": "soslu_kofte",
@@ -234,15 +212,6 @@
   ],
   "menus": [
     {
-      "date": "2026-09-25",
-      "items": [
-        "elvan_corbasi",
-        "etli_bezelye",
-        "soslu_makarna",
-        "revani_tatlisi"
-      ]
-    },
-    {
       "date": "2026-09-26",
       "items": [
         "taneli_sebze_corbasi",
@@ -291,6 +260,6 @@
   "meta": {
     "timezone": "Asia/Bishkek",
     "source": "manas_kantin",
-    "lastUpdated": "2026-09-25T03:35:11.970Z"
+    "lastUpdated": "2026-09-26T03:40:52.808Z"
   }
 }
