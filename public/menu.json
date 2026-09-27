@@ -1,50 +1,6 @@
 {
   "foods": [
     {
-      "id": "taneli_sebze_corbasi",
-      "name": {
-        "tr": "Taneli Sebze Çorbası",
-        "ru": "Суп",
-        "en": "Soup"
-      },
-      "calories": 125,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/42.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/42.jpg"
-    },
-    {
-      "id": "kirgiz_mantisi",
-      "name": {
-        "tr": "Kırgız Mantısı",
-        "ru": "Манты",
-        "en": "Turkish Dumplings"
-      },
-      "calories": 490,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/111.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/111.jpg"
-    },
-    {
-      "id": "kakaolu_puding",
-      "name": {
-        "tr": "Kakaolu Puding",
-        "ru": "Kakaolu Puding",
-        "en": "Kakaolu Puding"
-      },
-      "calories": 320,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/261.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/261.jpg"
-    },
-    {
-      "id": "yogurt",
-      "name": {
-        "tr": "Yoğurt",
-        "ru": "Йогурт",
-        "en": "Yogurt"
-      },
-      "calories": 158,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/yogurt.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/yogurt.jpg"
-    },
-    {
       "id": "yogurtlu_eriste_corbasi",
       "name": {
         "tr": "Yoğurtlu Erişte Çorbası",
@@ -212,15 +168,6 @@
   ],
   "menus": [
     {
-      "date": "2026-09-26",
-      "items": [
-        "taneli_sebze_corbasi",
-        "kirgiz_mantisi",
-        "kakaolu_puding",
-        "yogurt"
-      ]
-    },
-    {
       "date": "2026-09-27",
       "items": [
         "yogurtlu_eriste_corbasi",
@@ -260,6 +207,6 @@
   "meta": {
     "timezone": "Asia/Bishkek",
     "source": "manas_kantin",
-    "lastUpdated": "2026-09-26T03:40:52.808Z"
+    "lastUpdated": "2026-09-27T03:49:48.910Z"
   }
 }
