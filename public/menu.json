@@ -1,50 +1,6 @@
 {
   "foods": [
     {
-      "id": "ezogelin_corbasi",
-      "name": {
-        "tr": "Ezogelin Çorbası",
-        "ru": "Суп Эзогелин",
-        "en": "Ezogelin Soup"
-      },
-      "calories": 217,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/ezogelin_corbasi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/ezogelin_corbasi.jpg"
-    },
-    {
-      "id": "sebzeli_firin_kofte",
-      "name": {
-        "tr": "Sebzeli Fırın Köfte",
-        "ru": "Котлеты",
-        "en": "Meatballs"
-      },
-      "calories": 361,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/erRbV-m3lcrVz1EZLYP2muQ2oOvGpSTU.png",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/erRbV-m3lcrVz1EZLYP2muQ2oOvGpSTU.png"
-    },
-    {
-      "id": "soslu_makarna",
-      "name": {
-        "tr": "Soslu Makarna",
-        "ru": "Макароны с соусом",
-        "en": "Pasta with Sauce"
-      },
-      "calories": 322,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/soslu_makarna.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/soslu_makarna.jpg"
-    },
-    {
-      "id": "meyve",
-      "name": {
-        "tr": "Meyve",
-        "ru": "Фрукты",
-        "en": "Fruit"
-      },
-      "calories": 60,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/meyve.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/meyve.jpg"
-    },
-    {
       "id": "yayla_corbasi",
       "name": {
         "tr": "Yayla Çorbası",
@@ -78,15 +34,15 @@
       "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/sehriyeli_bulgur_pilavi.jpg"
     },
     {
-      "id": "coban_salata",
+      "id": "revani_tatlisi",
       "name": {
-        "tr": "Çoban Salata",
-        "ru": "Çoban Salata",
-        "en": "Çoban Salata"
+        "tr": "Revani Tatlısı",
+        "ru": "Ревани",
+        "en": "Revani Cake"
       },
-      "calories": 115,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/249.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/249.jpg"
+      "calories": 323,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/revani_tatlisi.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/revani_tatlisi.jpg"
     },
     {
       "id": "mas_corbasi",
@@ -188,6 +144,17 @@
       "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/et_haslama.jpg"
     },
     {
+      "id": "coban_salata",
+      "name": {
+        "tr": "Çoban Salata",
+        "ru": "Çoban Salata",
+        "en": "Çoban Salata"
+      },
+      "calories": 115,
+      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/249.jpg",
+      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/249.jpg"
+    },
+    {
       "id": "sebzeli_eriste_corbasi",
       "name": {
         "tr": "Sebzeli Erişte Çorbası",
@@ -219,6 +186,17 @@
       "calories": 323,
       "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/217.jpg",
       "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/217.jpg"
+    },
+    {
+      "id": "ezogelin_corbasi",
+      "name": {
+        "tr": "Ezogelin Çorbası",
+        "ru": "Суп Эзогелин",
+        "en": "Ezogelin Soup"
+      },
+      "calories": 217,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/ezogelin_corbasi.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/ezogelin_corbasi.jpg"
     },
     {
       "id": "kurdak",
@@ -265,17 +243,6 @@
       "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/232.jpg"
     },
     {
-      "id": "revani_tatlisi",
-      "name": {
-        "tr": "Revani Tatlısı",
-        "ru": "Ревани",
-        "en": "Revani Cake"
-      },
-      "calories": 323,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/revani_tatlisi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/revani_tatlisi.jpg"
-    },
-    {
       "id": "mercimek_corbasi",
       "name": {
         "tr": "Mercimek Çorbası",
@@ -307,6 +274,17 @@
       "calories": 315,
       "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/soslu_bulgur_pilavi.jpg",
       "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/soslu_bulgur_pilavi.jpg"
+    },
+    {
+      "id": "meyve",
+      "name": {
+        "tr": "Meyve",
+        "ru": "Фрукты",
+        "en": "Fruit"
+      },
+      "calories": 60,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/meyve.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/meyve.jpg"
     },
     {
       "id": "ankara_tava",
@@ -441,6 +419,17 @@
       "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/kusNkoetwvJsTvBm4945ghBWWdMF2jmP.png"
     },
     {
+      "id": "soslu_makarna",
+      "name": {
+        "tr": "Soslu Makarna",
+        "ru": "Макароны с соусом",
+        "en": "Pasta with Sauce"
+      },
+      "calories": 322,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/soslu_makarna.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/soslu_makarna.jpg"
+    },
+    {
       "id": "arpa_sehriye_corbasi",
       "name": {
         "tr": "Arpa Şehriye Çorbası",
@@ -476,21 +465,12 @@
   ],
   "menus": [
     {
-      "date": "2026-10-06",
-      "items": [
-        "ezogelin_corbasi",
-        "sebzeli_firin_kofte",
-        "soslu_makarna",
-        "meyve"
-      ]
-    },
-    {
       "date": "2026-10-07",
       "items": [
         "yayla_corbasi",
         "etli_taze_fasulye",
         "sehriyeli_bulgur_pilavi",
-        "coban_salata"
+        "revani_tatlisi"
       ]
     },
     {
@@ -641,6 +621,6 @@
   "meta": {
     "timezone": "Asia/Bishkek",
     "source": "manas_kantin",
-    "lastUpdated": "2026-10-06T05:01:28.949Z"
+    "lastUpdated": "2026-10-07T04:28:34.282Z"
   }
 }
