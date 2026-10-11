@@ -1,50 +1,6 @@
 {
   "foods": [
     {
-      "id": "tel_sehriyeli_yesil_mercimek_corbasi",
-      "name": {
-        "tr": "Tel Şehriyeli Yeşil Mercimek Çorbası",
-        "ru": "Суп из зеленой чечевицы с вермишелью",
-        "en": "Green Lentil Soup with Vermicelli"
-      },
-      "calories": 180,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/tel_sehriyeli_yesil_mercimek_corbasi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/tel_sehriyeli_yesil_mercimek_corbasi.jpg"
-    },
-    {
-      "id": "et_haslama",
-      "name": {
-        "tr": "Et Haşlama",
-        "ru": "Отварное мясо",
-        "en": "Boiled Meat"
-      },
-      "calories": 900,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/et_haslama.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/et_haslama.jpg"
-    },
-    {
-      "id": "sehriyeli_bulgur_pilavi",
-      "name": {
-        "tr": "Şehriyeli Bulgur Pilavı",
-        "ru": "Плов",
-        "en": "Pilaf"
-      },
-      "calories": 315,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/sehriyeli_bulgur_pilavi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/sehriyeli_bulgur_pilavi.jpg"
-    },
-    {
-      "id": "coban_salata",
-      "name": {
-        "tr": "Çoban Salata",
-        "ru": "Çoban Salata",
-        "en": "Çoban Salata"
-      },
-      "calories": 115,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/249.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/249.jpg"
-    },
-    {
       "id": "sebzeli_eriste_corbasi",
       "name": {
         "tr": "Sebzeli Erişte Çorbası",
@@ -320,6 +276,17 @@
       "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/tas_kebap.jpg"
     },
     {
+      "id": "sehriyeli_bulgur_pilavi",
+      "name": {
+        "tr": "Şehriyeli Bulgur Pilavı",
+        "ru": "Плов",
+        "en": "Pilaf"
+      },
+      "calories": 315,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/sehriyeli_bulgur_pilavi.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/sehriyeli_bulgur_pilavi.jpg"
+    },
+    {
       "id": "kakaolu_puding",
       "name": {
         "tr": "Kakaolu Puding",
@@ -430,6 +397,17 @@
       "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/kavurma.jpg"
     },
     {
+      "id": "coban_salata",
+      "name": {
+        "tr": "Çoban Salata",
+        "ru": "Çoban Salata",
+        "en": "Çoban Salata"
+      },
+      "calories": 115,
+      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/249.jpg",
+      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/249.jpg"
+    },
+    {
       "id": "tutmac_corbasi",
       "name": {
         "tr": "Tutmaç Çorbası",
@@ -450,6 +428,28 @@
       "calories": 345,
       "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/130.jpg",
       "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/130.jpg"
+    },
+    {
+      "id": "tel_sehriyeli_yesil_mercimek_corbasi",
+      "name": {
+        "tr": "Tel Şehriyeli Yeşil Mercimek Çorbası",
+        "ru": "Суп из зеленой чечевицы с вермишелью",
+        "en": "Green Lentil Soup with Vermicelli"
+      },
+      "calories": 180,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/tel_sehriyeli_yesil_mercimek_corbasi.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/tel_sehriyeli_yesil_mercimek_corbasi.jpg"
+    },
+    {
+      "id": "et_haslama",
+      "name": {
+        "tr": "Et Haşlama",
+        "ru": "Отварное мясо",
+        "en": "Boiled Meat"
+      },
+      "calories": 900,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/et_haslama.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/et_haslama.jpg"
     },
     {
       "id": "et_sote",
@@ -508,15 +508,6 @@
     }
   ],
   "menus": [
-    {
-      "date": "2026-10-10",
-      "items": [
-        "tel_sehriyeli_yesil_mercimek_corbasi",
-        "et_haslama",
-        "sehriyeli_bulgur_pilavi",
-        "coban_salata"
-      ]
-    },
     {
       "date": "2026-10-11",
       "items": [
@@ -710,6 +701,6 @@
   "meta": {
     "timezone": "Asia/Bishkek",
     "source": "manas_kantin",
-    "lastUpdated": "2026-10-10T04:28:16.395Z"
+    "lastUpdated": "2026-10-11T04:11:02.418Z"
   }
 }
