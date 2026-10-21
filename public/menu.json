@@ -1,50 +1,6 @@
 {
   "foods": [
     {
-      "id": "ezogelin_corbasi",
-      "name": {
-        "tr": "Ezogelin Çorbası",
-        "ru": "Суп Эзогелин",
-        "en": "Ezogelin Soup"
-      },
-      "calories": 217,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/ezogelin_corbasi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/ezogelin_corbasi.jpg"
-    },
-    {
-      "id": "pirincli_kofte",
-      "name": {
-        "tr": "Pirinçli Köfte",
-        "ru": "Котлеты",
-        "en": "Meatballs"
-      },
-      "calories": 490,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/kusNkoetwvJsTvBm4945ghBWWdMF2jmP.png",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/kusNkoetwvJsTvBm4945ghBWWdMF2jmP.png"
-    },
-    {
-      "id": "soslu_makarna",
-      "name": {
-        "tr": "Soslu Makarna",
-        "ru": "Макароны с соусом",
-        "en": "Pasta with Sauce"
-      },
-      "calories": 322,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/soslu_makarna.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/soslu_makarna.jpg"
-    },
-    {
-      "id": "meyve",
-      "name": {
-        "tr": "Meyve",
-        "ru": "Фрукты",
-        "en": "Fruit"
-      },
-      "calories": 60,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/meyve.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/meyve.jpg"
-    },
-    {
       "id": "yayla_corbasi",
       "name": {
         "tr": "Yayla Çorbası",
@@ -188,6 +144,17 @@
       "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/130.jpg"
     },
     {
+      "id": "meyve",
+      "name": {
+        "tr": "Meyve",
+        "ru": "Фрукты",
+        "en": "Fruit"
+      },
+      "calories": 60,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/meyve.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/meyve.jpg"
+    },
+    {
       "id": "tel_sehriyeli_yesil_mercimek_corbasi",
       "name": {
         "tr": "Tel Şehriyeli Yeşil Mercimek Çorbası",
@@ -309,6 +276,17 @@
       "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/soslu_bulgur_pilavi.jpg"
     },
     {
+      "id": "ezogelin_corbasi",
+      "name": {
+        "tr": "Ezogelin Çorbası",
+        "ru": "Суп Эзогелин",
+        "en": "Ezogelin Soup"
+      },
+      "calories": 217,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/ezogelin_corbasi.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/ezogelin_corbasi.jpg"
+    },
+    {
       "id": "patatesli_gul_boregi",
       "name": {
         "tr": "Patatesli Gül Böreği",
@@ -365,15 +343,6 @@
     }
   ],
   "menus": [
-    {
-      "date": "2026-10-20",
-      "items": [
-        "ezogelin_corbasi",
-        "pirincli_kofte",
-        "soslu_makarna",
-        "meyve"
-      ]
-    },
     {
       "date": "2026-10-21",
       "items": [
@@ -477,6 +446,6 @@
   "meta": {
     "timezone": "Asia/Bishkek",
     "source": "manas_kantin",
-    "lastUpdated": "2026-10-20T03:32:04.687Z"
+    "lastUpdated": "2026-10-21T03:26:06.706Z"
   }
 }
