@@ -1,50 +1,6 @@
 {
   "foods": [
     {
-      "id": "yayla_corbasi",
-      "name": {
-        "tr": "Yayla Çorbası",
-        "ru": "Суп Яйла",
-        "en": "Yayla Soup"
-      },
-      "calories": 175,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/yayla_corbasi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/yayla_corbasi.jpg"
-    },
-    {
-      "id": "soslu_firin_kofte",
-      "name": {
-        "tr": "Soslu Fırın Köfte",
-        "ru": "Котлеты",
-        "en": "Meatballs"
-      },
-      "calories": 191,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/X6j4nFsWj0ipuVdBAKAyEITFCBlt7nWt.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/X6j4nFsWj0ipuVdBAKAyEITFCBlt7nWt.jpg"
-    },
-    {
-      "id": "spagetti",
-      "name": {
-        "tr": "Spagetti",
-        "ru": "Spagetti",
-        "en": "Spagetti"
-      },
-      "calories": 360,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/232.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/232.jpg"
-    },
-    {
-      "id": "meyve",
-      "name": {
-        "tr": "Meyve",
-        "ru": "Фрукты",
-        "en": "Fruit"
-      },
-      "calories": 60,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/meyve.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/meyve.jpg"
-    },
-    {
       "id": "mas_corbasi",
       "name": {
         "tr": "Maş Çorbası",
@@ -223,15 +179,6 @@
   ],
   "menus": [
     {
-      "date": "2026-10-27",
-      "items": [
-        "yayla_corbasi",
-        "soslu_firin_kofte",
-        "spagetti",
-        "meyve"
-      ]
-    },
-    {
       "date": "2026-10-28",
       "items": [
         "mas_corbasi",
@@ -271,6 +218,6 @@
   "meta": {
     "timezone": "Asia/Bishkek",
     "source": "manas_kantin",
-    "lastUpdated": "2026-10-27T03:49:46.231Z"
+    "lastUpdated": "2026-10-28T04:08:40.211Z"
   }
 }
