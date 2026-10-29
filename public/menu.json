@@ -1,50 +1,6 @@
 {
   "foods": [
     {
-      "id": "mas_corbasi",
-      "name": {
-        "tr": "Maş Çorbası",
-        "ru": "Суп",
-        "en": "Soup"
-      },
-      "calories": 155,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/caqN-bC5CCSEpJPC2z8VZIeMz5JADJl0.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/caqN-bC5CCSEpJPC2z8VZIeMz5JADJl0.jpg"
-    },
-    {
-      "id": "sebzeli_kebap",
-      "name": {
-        "tr": "Sebzeli Kebap",
-        "ru": "Sebzeli Kebap",
-        "en": "Sebzeli Kebap"
-      },
-      "calories": 191,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/149.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/149.jpg"
-    },
-    {
-      "id": "soslu_bulgur_pilavi",
-      "name": {
-        "tr": "Soslu Bulgur Pilavı",
-        "ru": "Булгур плов с соусом",
-        "en": "Bulgur Pilaf with Sauce"
-      },
-      "calories": 315,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/soslu_bulgur_pilavi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/soslu_bulgur_pilavi.jpg"
-    },
-    {
-      "id": "revani_tatlisi",
-      "name": {
-        "tr": "Revani Tatlısı",
-        "ru": "Ревани",
-        "en": "Revani Cake"
-      },
-      "calories": 323,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/revani_tatlisi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/revani_tatlisi.jpg"
-    },
-    {
       "id": "ezogelin_corbasi",
       "name": {
         "tr": "Ezogelin Çorbası",
@@ -179,15 +135,6 @@
   ],
   "menus": [
     {
-      "date": "2026-10-28",
-      "items": [
-        "mas_corbasi",
-        "sebzeli_kebap",
-        "soslu_bulgur_pilavi",
-        "revani_tatlisi"
-      ]
-    },
-    {
       "date": "2026-10-29",
       "items": [
         "ezogelin_corbasi",
@@ -218,6 +165,6 @@
   "meta": {
     "timezone": "Asia/Bishkek",
     "source": "manas_kantin",
-    "lastUpdated": "2026-10-28T04:08:40.211Z"
+    "lastUpdated": "2026-10-29T04:31:05.927Z"
   }
 }
