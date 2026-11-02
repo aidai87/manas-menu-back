@@ -1,50 +1,6 @@
 {
   "foods": [
     {
-      "id": "mas_corbasi",
-      "name": {
-        "tr": "Maş Çorbası",
-        "ru": "Суп",
-        "en": "Soup"
-      },
-      "calories": 155,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/caqN-bC5CCSEpJPC2z8VZIeMz5JADJl0.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/caqN-bC5CCSEpJPC2z8VZIeMz5JADJl0.jpg"
-    },
-    {
-      "id": "patates_musakka",
-      "name": {
-        "tr": "Patates Musakka",
-        "ru": "Patates Musakka",
-        "en": "Patates Musakka"
-      },
-      "calories": 345,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/130.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/130.jpg"
-    },
-    {
-      "id": "soslu_makarna",
-      "name": {
-        "tr": "Soslu Makarna",
-        "ru": "Макароны с соусом",
-        "en": "Pasta with Sauce"
-      },
-      "calories": 322,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/soslu_makarna.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/soslu_makarna.jpg"
-    },
-    {
-      "id": "yogurt",
-      "name": {
-        "tr": "Yoğurt",
-        "ru": "Йогурт",
-        "en": "Yogurt"
-      },
-      "calories": 158,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/yogurt.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/yogurt.jpg"
-    },
-    {
       "id": "suzme_mercimek_corbasi",
       "name": {
         "tr": "Süzme Mercimek Çorbası",
@@ -210,6 +166,17 @@
       "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/patatesli_gul_boregi.jpg"
     },
     {
+      "id": "yogurt",
+      "name": {
+        "tr": "Yoğurt",
+        "ru": "Йогурт",
+        "en": "Yogurt"
+      },
+      "calories": 158,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/yogurt.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/yogurt.jpg"
+    },
+    {
       "id": "makarnali_yesil_mercimek_corbasi",
       "name": {
         "tr": "Makarnalı Yeşil Mercimek Çorbası",
@@ -322,15 +289,6 @@
   ],
   "menus": [
     {
-      "date": "2026-11-01",
-      "items": [
-        "mas_corbasi",
-        "patates_musakka",
-        "soslu_makarna",
-        "yogurt"
-      ]
-    },
-    {
       "date": "2026-11-02",
       "items": [
         "suzme_mercimek_corbasi",
@@ -397,6 +355,6 @@
   "meta": {
     "timezone": "Asia/Bishkek",
     "source": "manas_kantin",
-    "lastUpdated": "2026-11-01T04:33:19.790Z"
+    "lastUpdated": "2026-11-02T04:35:42.228Z"
   }
 }
