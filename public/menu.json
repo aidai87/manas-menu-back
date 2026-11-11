@@ -1,50 +1,6 @@
 {
   "foods": [
     {
-      "id": "nohutli_ispanak_corbasi",
-      "name": {
-        "tr": "Nohutlı Ispanak Çorbası",
-        "ru": "Суп",
-        "en": "Soup"
-      },
-      "calories": 168,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/27.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/27.jpg"
-    },
-    {
-      "id": "terbiyeli_kofte",
-      "name": {
-        "tr": "Terbiyeli Köfte",
-        "ru": "Котлеты",
-        "en": "Meatballs"
-      },
-      "calories": 231,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/175.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/175.jpg"
-    },
-    {
-      "id": "spagetti",
-      "name": {
-        "tr": "Spagetti",
-        "ru": "Spagetti",
-        "en": "Spagetti"
-      },
-      "calories": 360,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/232.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/232.jpg"
-    },
-    {
-      "id": "revani_tatlisi",
-      "name": {
-        "tr": "Revani Tatlısı",
-        "ru": "Ревани",
-        "en": "Revani Cake"
-      },
-      "calories": 323,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/revani_tatlisi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/revani_tatlisi.jpg"
-    },
-    {
       "id": "eriste_corbasi",
       "name": {
         "tr": "Erişte Çorbası",
@@ -245,15 +201,6 @@
   ],
   "menus": [
     {
-      "date": "2026-11-10",
-      "items": [
-        "nohutli_ispanak_corbasi",
-        "terbiyeli_kofte",
-        "spagetti",
-        "revani_tatlisi"
-      ]
-    },
-    {
       "date": "2026-11-11",
       "items": [
         "eriste_corbasi",
@@ -302,6 +249,6 @@
   "meta": {
     "timezone": "Asia/Bishkek",
     "source": "manas_kantin",
-    "lastUpdated": "2026-11-10T06:01:17.021Z"
+    "lastUpdated": "2026-11-11T04:50:06.738Z"
   }
 }
