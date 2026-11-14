@@ -1,50 +1,6 @@
 {
   "foods": [
     {
-      "id": "mas_corbasi",
-      "name": {
-        "tr": "Maş Çorbası",
-        "ru": "Суп",
-        "en": "Soup"
-      },
-      "calories": 155,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/caqN-bC5CCSEpJPC2z8VZIeMz5JADJl0.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/caqN-bC5CCSEpJPC2z8VZIeMz5JADJl0.jpg"
-    },
-    {
-      "id": "sehriyeli_bulgur_pilavi",
-      "name": {
-        "tr": "Şehriyeli Bulgur Pilavı",
-        "ru": "Плов",
-        "en": "Pilaf"
-      },
-      "calories": 315,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/sehriyeli_bulgur_pilavi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/sehriyeli_bulgur_pilavi.jpg"
-    },
-    {
-      "id": "karisik_komposto",
-      "name": {
-        "tr": "Karışık Komposto",
-        "ru": "Смешанный компот",
-        "en": "Mixed Compote"
-      },
-      "calories": 290,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/karisik_komposto.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/karisik_komposto.jpg"
-    },
-    {
-      "id": "sebzeli_tavuk_gogsu",
-      "name": {
-        "tr": "Sebzeli Tavuk Göğsü",
-        "ru": "Sebzeli Tavuk Göğsü",
-        "en": "Sebzeli Tavuk Göğsü"
-      },
-      "calories": 297,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/1zxVbLodRq1x1T2pNWJKisPXl0VFw91t.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/1zxVbLodRq1x1T2pNWJKisPXl0VFw91t.jpg"
-    },
-    {
       "id": "yayla_corbasi",
       "name": {
         "tr": "Yayla Çorbası",
@@ -199,6 +155,17 @@
       "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/firin_kofte_fri.jpg"
     },
     {
+      "id": "sehriyeli_bulgur_pilavi",
+      "name": {
+        "tr": "Şehriyeli Bulgur Pilavı",
+        "ru": "Плов",
+        "en": "Pilaf"
+      },
+      "calories": 315,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/sehriyeli_bulgur_pilavi.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/sehriyeli_bulgur_pilavi.jpg"
+    },
+    {
       "id": "cacik",
       "name": {
         "tr": "Cacık",
@@ -296,6 +263,28 @@
       "calories": 402,
       "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/94.jpg",
       "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/94.jpg"
+    },
+    {
+      "id": "karisik_komposto",
+      "name": {
+        "tr": "Karışık Komposto",
+        "ru": "Смешанный компот",
+        "en": "Mixed Compote"
+      },
+      "calories": 290,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/karisik_komposto.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/karisik_komposto.jpg"
+    },
+    {
+      "id": "mas_corbasi",
+      "name": {
+        "tr": "Maş Çorbası",
+        "ru": "Суп",
+        "en": "Soup"
+      },
+      "calories": 155,
+      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/caqN-bC5CCSEpJPC2z8VZIeMz5JADJl0.jpg",
+      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/caqN-bC5CCSEpJPC2z8VZIeMz5JADJl0.jpg"
     },
     {
       "id": "et_haslama",
@@ -441,6 +430,17 @@
       "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/eriste_corbasi.jpg"
     },
     {
+      "id": "sebzeli_tavuk_gogsu",
+      "name": {
+        "tr": "Sebzeli Tavuk Göğsü",
+        "ru": "Sebzeli Tavuk Göğsü",
+        "en": "Sebzeli Tavuk Göğsü"
+      },
+      "calories": 297,
+      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/1zxVbLodRq1x1T2pNWJKisPXl0VFw91t.jpg",
+      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/1zxVbLodRq1x1T2pNWJKisPXl0VFw91t.jpg"
+    },
+    {
       "id": "bors_corbasi",
       "name": {
         "tr": "Borş Çorbası",
@@ -475,15 +475,6 @@
     }
   ],
   "menus": [
-    {
-      "date": "2026-11-13",
-      "items": [
-        "mas_corbasi",
-        "sehriyeli_bulgur_pilavi",
-        "karisik_komposto",
-        "sebzeli_tavuk_gogsu"
-      ]
-    },
     {
       "date": "2026-11-14",
       "items": [
@@ -641,6 +632,6 @@
   "meta": {
     "timezone": "Asia/Bishkek",
     "source": "manas_kantin",
-    "lastUpdated": "2026-11-13T05:13:15.813Z"
+    "lastUpdated": "2026-11-14T05:02:42.226Z"
   }
 }
