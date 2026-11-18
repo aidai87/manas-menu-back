@@ -1,50 +1,6 @@
 {
   "foods": [
     {
-      "id": "taneli_sebze_corbasi",
-      "name": {
-        "tr": "Taneli Sebze Çorbası",
-        "ru": "Суп",
-        "en": "Soup"
-      },
-      "calories": 125,
-      "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/42.jpg",
-      "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/42.jpg"
-    },
-    {
-      "id": "firin_kofte_fri",
-      "name": {
-        "tr": "Fırın Köfte-Fri",
-        "ru": "Котлеты",
-        "en": "Meatballs"
-      },
-      "calories": 270,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/firin_kofte_fri.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/firin_kofte_fri.jpg"
-    },
-    {
-      "id": "sehriyeli_bulgur_pilavi",
-      "name": {
-        "tr": "Şehriyeli Bulgur Pilavı",
-        "ru": "Плов",
-        "en": "Pilaf"
-      },
-      "calories": 315,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/sehriyeli_bulgur_pilavi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/sehriyeli_bulgur_pilavi.jpg"
-    },
-    {
-      "id": "cacik",
-      "name": {
-        "tr": "Cacık",
-        "ru": "Джаджик",
-        "en": "Cacik (Yogurt Dip)"
-      },
-      "calories": 200,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/cacik.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/cacik.jpg"
-    },
-    {
       "id": "yogurtlu_eriste_corbasi",
       "name": {
         "tr": "Yoğurtlu Erişte Çorbası",
@@ -188,6 +144,17 @@
       "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/et_haslama.jpg"
     },
     {
+      "id": "sehriyeli_bulgur_pilavi",
+      "name": {
+        "tr": "Şehriyeli Bulgur Pilavı",
+        "ru": "Плов",
+        "en": "Pilaf"
+      },
+      "calories": 315,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/sehriyeli_bulgur_pilavi.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/sehriyeli_bulgur_pilavi.jpg"
+    },
+    {
       "id": "lokma_tatlisi",
       "name": {
         "tr": "Lokma Tatlısı",
@@ -241,6 +208,17 @@
       "calories": 310,
       "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/pabaa7jSH35TlhwxZGFI7fxRhQvEUliK.jpg",
       "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/pabaa7jSH35TlhwxZGFI7fxRhQvEUliK.jpg"
+    },
+    {
+      "id": "cacik",
+      "name": {
+        "tr": "Cacık",
+        "ru": "Джаджик",
+        "en": "Cacik (Yogurt Dip)"
+      },
+      "calories": 200,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/cacik.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/cacik.jpg"
     },
     {
       "id": "soslu_kofte",
@@ -432,15 +410,6 @@
   ],
   "menus": [
     {
-      "date": "2026-11-17",
-      "items": [
-        "taneli_sebze_corbasi",
-        "firin_kofte_fri",
-        "sehriyeli_bulgur_pilavi",
-        "cacik"
-      ]
-    },
-    {
       "date": "2026-11-18",
       "items": [
         "yogurtlu_eriste_corbasi",
@@ -561,6 +530,6 @@
   "meta": {
     "timezone": "Asia/Bishkek",
     "source": "manas_kantin",
-    "lastUpdated": "2026-11-17T06:41:28.588Z"
+    "lastUpdated": "2026-11-18T05:59:45.273Z"
   }
 }
