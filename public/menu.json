@@ -1,50 +1,6 @@
 {
   "foods": [
     {
-      "id": "ezogelin_corbasi",
-      "name": {
-        "tr": "Ezogelin Çorbası",
-        "ru": "Суп Эзогелин",
-        "en": "Ezogelin Soup"
-      },
-      "calories": 217,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/ezogelin_corbasi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/ezogelin_corbasi.jpg"
-    },
-    {
-      "id": "karnabahar_musakka",
-      "name": {
-        "tr": "Karnabahar Musakka",
-        "ru": "Мусака из цветной капусты",
-        "en": "Cauliflower Moussaka"
-      },
-      "calories": 266,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/karnabahar_musakka.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/karnabahar_musakka.jpg"
-    },
-    {
-      "id": "patatesli_gul_boregi",
-      "name": {
-        "tr": "Patatesli Gül Böreği",
-        "ru": "Розовый бурек с картофелем",
-        "en": "Rose Shaped Potato Börek"
-      },
-      "calories": 310,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/patatesli_gul_boregi.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/patatesli_gul_boregi.jpg"
-    },
-    {
-      "id": "cacik",
-      "name": {
-        "tr": "Cacık",
-        "ru": "Джаджик",
-        "en": "Cacik (Yogurt Dip)"
-      },
-      "calories": 200,
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/cacik.jpg",
-      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/cacik.jpg"
-    },
-    {
       "id": "mercimek_corbasi",
       "name": {
         "tr": "Mercimek Çorbası",
@@ -177,6 +133,17 @@
       "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/meyve.jpg"
     },
     {
+      "id": "ezogelin_corbasi",
+      "name": {
+        "tr": "Ezogelin Çorbası",
+        "ru": "Суп Эзогелин",
+        "en": "Ezogelin Soup"
+      },
+      "calories": 217,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/ezogelin_corbasi.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/ezogelin_corbasi.jpg"
+    },
+    {
       "id": "etli_kuru_fasulye",
       "name": {
         "tr": "Etli Kuru Fasulye",
@@ -186,6 +153,17 @@
       "calories": 310,
       "thumbUrl": "https://info.manas.edu.kg/uploads/kantin/foods/pabaa7jSH35TlhwxZGFI7fxRhQvEUliK.jpg",
       "fullPhotoUrl": "https://info.manas.edu.kg/uploads/kantin/foods/pabaa7jSH35TlhwxZGFI7fxRhQvEUliK.jpg"
+    },
+    {
+      "id": "cacik",
+      "name": {
+        "tr": "Cacık",
+        "ru": "Джаджик",
+        "en": "Cacik (Yogurt Dip)"
+      },
+      "calories": 200,
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/thumb/cacik.jpg",
+      "fullPhotoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/yemekhane-cdn@main/full/cacik.jpg"
     },
     {
       "id": "soslu_kofte",
@@ -388,15 +366,6 @@
   ],
   "menus": [
     {
-      "date": "2026-11-19",
-      "items": [
-        "ezogelin_corbasi",
-        "karnabahar_musakka",
-        "patatesli_gul_boregi",
-        "cacik"
-      ]
-    },
-    {
       "date": "2026-11-20",
       "items": [
         "mercimek_corbasi",
@@ -499,6 +468,6 @@
   "meta": {
     "timezone": "Asia/Bishkek",
     "source": "manas_kantin",
-    "lastUpdated": "2026-11-19T06:00:15.243Z"
+    "lastUpdated": "2026-11-20T05:49:40.547Z"
   }
 }
