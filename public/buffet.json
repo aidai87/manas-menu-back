@@ -227,10 +227,10 @@
           "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/kalbur_tatlisi.jpg"
         },
         {
-          "id": "sutlac_cevizli",
-          "name": "SÜTLAÇ CEVİZLİ",
+          "id": "sutlac_s",
+          "name": "SÜTLAÇ (S)",
           "price": 60,
-          "photoUrl": "https://cdn.jsdelivr.net/gh/Atoktobekov/buffet-cdn@main/images/sutlac_cevizli.jpg"
+          "photoUrl": "https://info.manas.edu.kg/uploads/kantin/T7kvPeBid8Jjo1-GhsHcpeh8MKNuN2FH.jpg"
         }
       ]
     },
@@ -316,6 +316,6 @@
   "meta": {
     "timezone": "Asia/Bishkek",
     "currency": "KGS",
-    "lastUpdated": "2026-11-24T08:32:11.104Z"
+    "lastUpdated": "2026-11-25T07:06:44.931Z"
   }
 }
